@@ -2,6 +2,14 @@
 {"dg-publish":true,"permalink":"/goerev-yap/yap/03-buguen-yap/","tags":["gardenEntry"]}
 ---
 
+---
+---
+permalink: /gorev-yap/bugun.html
+---
+# Bugün Yapılacaklar
+
+- Görev 1
+- Görev 2
 
 
 - [ ]  Harddiske yedeklemeleri yap ve silinecekleri sil
