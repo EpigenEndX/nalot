@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/goerev-yap/yap/03-buguen-yap/","tags":["gardenEntry"]}
 ---
 
----
----
-permalink: /gorev-yap/bugun.html
----
+
 # Bugün Yapılacaklar
 
 - Görev 1
