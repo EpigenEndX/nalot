@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alisveris/mikrotik/6-mikrotik-cihazlar/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/alisveris/mikrotik/6-mikrotik-cihazlar/"}
 ---
 
 
