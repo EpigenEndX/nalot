@@ -3,9 +3,9 @@
 ---
 
 
-After covering my monthly living expenses outlined in [My Finances](https://notes.johnmavrick.com/My+Areas/My+Finances), leftover financial support will be used to outsource labor, purchase new tools, and allow me to fully focus on creating 🥳
+After covering my monthly living expenses outlined in [My Finances], leftover financial support will be used to outsource labor, purchase new tools, and allow me to fully focus on creating 🥳
 
-If you generously want to support me on my journey towards [Digital Self-Actualization](https://notes.johnmavrick.com/My+Resources/Digital+Self-Actualization) and for creating free resources like this website, videos, and courses, you can support me in the following ways:
+If you generously want to support me on my journey towards [Digital Self-Actualization] and for creating free resources like this website, videos, and courses, you can support me in the following ways:
 
 > -   Give a [one-time donation](https://ko-fi.com/johnmavrick)
 > -   Become a supporter [for exclusive benefits and content](https://notes.johnmavrick.com/My+Areas/My+Membership) 🤝 (or leave a tip)
