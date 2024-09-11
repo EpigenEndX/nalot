@@ -6,3 +6,5 @@
 
 Mücahit,
 Daha fazla bilgi ve video için sol üstteki üç çizgiye tıkla yeni sayfalar açılacaktır.
+
+[[Mücahit/Avlama/09 - BAL-CHATRI TUZAĞI (BC TUZAĞI)\|09 - BAL-CHATRI TUZAĞI (BC TUZAĞI)]]
