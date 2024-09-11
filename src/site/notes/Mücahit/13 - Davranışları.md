@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muecahit/13-davranislari/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/muecahit/13-davranislari/"}
 ---
 
 **Davranışları**  

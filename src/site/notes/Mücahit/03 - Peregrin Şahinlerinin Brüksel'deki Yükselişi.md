@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muecahit/03-peregrin-sahinlerinin-brueksel-deki-yuekselisi/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/muecahit/03-peregrin-sahinlerinin-brueksel-deki-yuekselisi/"}
 ---
 
 ## Peregrin Şahinlerinin Brüksel'deki Yükselişi

@@ -1,5 +1,5 @@
 ---
-{"dg-home":null,"dg-publish":true,"permalink":"/muecahit/02-goekdogan-falco-peregrinus-evrim-agaci/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/muecahit/02-goekdogan-falco-peregrinus-evrim-agaci/"}
 ---
 
 

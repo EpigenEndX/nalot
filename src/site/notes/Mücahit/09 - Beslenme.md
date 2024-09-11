@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muecahit/09-beslenme/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/muecahit/09-beslenme/"}
 ---
 
 **Beslenme**  

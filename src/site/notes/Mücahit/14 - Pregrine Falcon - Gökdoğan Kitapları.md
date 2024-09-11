@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muecahit/14-pregrine-falcon-goekdogan-kitaplari/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/muecahit/14-pregrine-falcon-goekdogan-kitaplari/"}
 ---
 
 https://www.amazon.com.tr/Peregrine-Falcon-Patrick-Stirling-Aird/dp/1554079276

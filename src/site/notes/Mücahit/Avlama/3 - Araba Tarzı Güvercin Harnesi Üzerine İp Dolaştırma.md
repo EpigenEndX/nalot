@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muecahit/avlama/3-araba-tarzi-guevercin-harnesi-uezerine-ip-dolastirma/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/muecahit/avlama/3-araba-tarzi-guevercin-harnesi-uezerine-ip-dolastirma/"}
 ---
 
 

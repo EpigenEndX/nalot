@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muecahit/08-yayilisi/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/muecahit/08-yayilisi/"}
 ---
 
 

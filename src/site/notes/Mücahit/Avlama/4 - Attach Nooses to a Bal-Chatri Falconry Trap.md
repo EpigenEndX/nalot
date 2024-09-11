@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muecahit/avlama/4-attach-nooses-to-a-bal-chatri-falconry-trap/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/muecahit/avlama/4-attach-nooses-to-a-bal-chatri-falconry-trap/"}
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wBqX0X-GZEw?si=FqDVX7wFqNVWHodY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

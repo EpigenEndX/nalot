@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muecahit/avlama/7-falconer-ve-gazze-ag-sistemi-incelemesi/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/muecahit/avlama/7-falconer-ve-gazze-ag-sistemi-incelemesi/"}
 ---
 
 

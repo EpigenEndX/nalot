@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muecahit/04-goekdogan-tanimi/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/muecahit/04-goekdogan-tanimi/"}
 ---
 
 **Tanımı**  

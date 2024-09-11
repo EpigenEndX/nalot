@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muecahit/06-ses-oetuesue/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/muecahit/06-ses-oetuesue/"}
 ---
 
 

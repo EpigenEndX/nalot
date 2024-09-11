@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muecahit/05-yerel-olarak-nasil-anilirlar/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/muecahit/05-yerel-olarak-nasil-anilirlar/"}
 ---
 
 **Yerel Adlar**  
