@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muecahit/avlama/6-complete-b-c-trap-ve-kit-b-c-trap-arasindaki-olasi-farklar/"}
+{"dg-publish":true,"permalink":"/muecahit/avlama/6-complete-b-c-trap-ve-kit-b-c-trap-arasindaki-olasi-farklar/","dgPassFrontmatter":true}
 ---
 
 **Complete B.C. Trap** ve **Kit B.C. Trap** arasındaki olası farklar:

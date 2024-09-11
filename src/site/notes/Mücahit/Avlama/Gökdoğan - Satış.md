@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muecahit/avlama/goekdogan-satis/"}
+{"dg-publish":true,"permalink":"/muecahit/avlama/goekdogan-satis/","dgPassFrontmatter":true}
 ---
 
 [**İdlib'de Saker Şahini Av Sezonu: Mütevazı Ekipmanlarla Bir Ömürlük Hayalin Peşinde**](https://english.enabbaladi.net/archives/2023/10/saker-falcon-hunting-season-begins-in-idlib-modest-equipment-to-get-lifetime-dream/)

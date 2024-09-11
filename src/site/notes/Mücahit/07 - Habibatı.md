@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muecahit/07-habibati/"}
+{"dg-publish":true,"permalink":"/muecahit/07-habibati/","dgPassFrontmatter":true}
 ---
 
 **Habitatı**  

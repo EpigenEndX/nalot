@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muecahit/12-popuelasyonu/"}
+{"dg-publish":true,"permalink":"/muecahit/12-popuelasyonu/","dgPassFrontmatter":true}
 ---
 
 **Popülasyonu**  

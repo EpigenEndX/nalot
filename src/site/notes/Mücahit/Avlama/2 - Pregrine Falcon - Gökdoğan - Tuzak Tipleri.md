@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muecahit/avlama/2-pregrine-falcon-goekdogan-tuzak-tipleri/"}
+{"dg-publish":true,"permalink":"/muecahit/avlama/2-pregrine-falcon-goekdogan-tuzak-tipleri/","dgPassFrontmatter":true}
 ---
 
 1. Crab Trap

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muecahit/avlama/1-goekdogan-tuzak-ilmikleri-hazirlama-nooses-a-trap/"}
+{"dg-publish":true,"permalink":"/muecahit/avlama/1-goekdogan-tuzak-ilmikleri-hazirlama-nooses-a-trap/","dgPassFrontmatter":true}
 ---
 
 Evet, **"Falconry: How to properly tie nooses for a trap"** başlıklı video, **"falcon avlamak için ilmiği nasıl hazırlamamız gerektiğini"** anlatıyor. 
