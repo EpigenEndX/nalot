@@ -16,7 +16,52 @@ ARAP TARZI - İKİLİ İLMİK HAZIRLAMA VE SİLİKONLAMA
 
 ---
 
-Metni daha anlaşılır hale getirmek için parçalara bölecek, gerekli adımları sıralayarak düzenleyeceğim. Ayrıca, önemli noktaları **vurgulayarak** ve net bir format oluşturarak içeriği gözden geçirelim.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gsn5L3XlXjg?si=T4ivUaYuDzIlTKVN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Tabii! İşte metnin Türkçe versiyonu:
+
+---
+
+### **Tuzağı Nasıl Kurarız: Adım Adım Anlatım**
+
+Şimdi size bu tuzağı nasıl kurduğumuzu göstereceğim. Genelde **30 lb (pound)** test kullanırdım ama artık bulamıyorum. Bu yüzden, **26 lb**'lik test yeterince yakın. Şimdi nasıl yapılacağını anlatacağım:
+
+## 26 lb Test Hattı Hakkında Bilgiler
+
+26 lb test hattı, yaklaşık olarak 11,8 kg'a denk gelmektedir.
+
+Balıkçılıkta, test hattı, balık oltasının ana hattına bağlanan ve balığın ağırlığına dayanabilecek güçte olması gereken bir parçadır. 26 lb test hattı, 11,8 kg'lık bir çekme gücüne sahiptir ve bu güç, orta büyüklükteki balıkları tutmak için yeterlidir.
+
+30 lb test hattı ise yaklaşık 13,6 kg'a denk gelir. Bu hattın kullanılması, daha büyük balıkları hedefleyen balıkçılar için tercih edilebilir.
+
+Sonuç olarak, 26 lb test hattı, 11,8 kg'lık bir çekme gücüne sahip olup, orta büyüklükteki balıkları tutmak için yeterli bir seçenektir. Bu hattın kullanılması, balık oltasının ana hattına bağlanarak, balığın kaçmasını önler ve balığı güvenle çekebilmek için gerekli dayanıklılığı sağlar.
+
+#### **Adım 1: İlk Hazırlıklar**
+- **Barrel (namlu) kovanı**: İlk olarak, ipi kestikten sonra bir ucunu alıp barrel kovanına geçiriyoruz.
+- **Döngü oluşturma**: Ucu geçirip bir döngü oluşturuyoruz ve aynı namluya tekrar sokuyoruz. Namlu, ipin iki kez geçebileceği genişlikte olmalı.
+- **Sıkıştırma**: Döngüyü biraz sıkıştırın. Burada, ipin doğal kıvrımını takip etmeye çalışın. Döngü çok geniş olmamalı ama ipin rahatça geçebileceği kadar yer bırakılmalı.
+  
+#### **Adım 2: Kıvırma ve Kıvılama**
+- **Kanal kilitleri**: Kanal kilitlerini kullanarak namluyu sıkıştırıyoruz. Ardından, namluyu 90 derece büküyoruz. Şimdi ipin sıkı durduğunu ve parmağınızdan kaymadığını görebilirsiniz.
+
+#### **Adım 3: Tuzağa Montaj**
+- **Tuzak**: Geçen gün bir kuş yakaladığım tuzağı alıyorum. Yeni bir döngü eklemek için, mesh teline (donanım bezi) ipi geçiriyoruz.
+- **Kıvırma**: İpi yine barrel kovanına geçirip sıkı bir döngü oluşturuyoruz. Bunu parmağınızda yapmak zor olabilir, bu yüzden bir sap veya başka bir yüzeyi kullanarak sıkıca tutup kıvırıyoruz.
+
+#### **Adım 4: Son Sıkıştırma**
+- **Kırpma**: İpi çok sıkı yapmamaya dikkat ederek hafifçe kırpıyoruz, ardından kanal kilitleriyle namluyu iyice sıkıştırıyoruz.
+- **Sıcak tutkal**: Döngü zamanla gevşeyebilir, bu yüzden sıcak tutkal kullanarak sabitleyebilirsiniz. Tutkal, döngünün pozisyonunu sağlamlaştırır.
+
+#### **Sonuç**
+- **Tuzak nasıl çalışır?**: Eğer bir kuş gelip tuzağa basarsa, döngü sıkışır ve kuşu yakalar. Döngü açılmadığı sürece kuş serbest kalamaz.
+
+İşte bu şekilde tuzağı kuruyoruz. Umarım bu rehber faydalı olmuştur!
+
+---
+
+Bu anlatım, tuzak kurulumunu daha sistematik ve anlaşılır hale getirir.
+
+#TuzakKurulumu #KuşTuzakları #SıcakTutkal #DoğaAvcılığı #DöngüTuzak
 
 ---
 
