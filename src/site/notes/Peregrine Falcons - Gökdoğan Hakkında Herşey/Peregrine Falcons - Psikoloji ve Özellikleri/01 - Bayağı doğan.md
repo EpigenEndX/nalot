@@ -2,7 +2,11 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-psikoloji-ve-oezellikleri/01-bayagi-dogan/","tags":["gardenEntry"]}
 ---
 
-permalink: /bayagı-dogan/
+---
+permalink: /bayagi-dogan/
+
+---
+
 
 **Tanımı**  
 
