@@ -48,6 +48,14 @@ Daha fazla bilgi ve video için sol üstteki üç çizgiye tıkla yeni sayfalar 
 - İpi bağlamadan önce küçük bir curl yaparak telin geçişini kolaylaştırabilirsiniz.
 
 
+---
+
+İLMİKLİ TUZAK NASIL HAZIRLANIR / İLMİK YAPIMI
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bz9gBReh_fs?si=I_1SsY2XHnthzzjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 </div></div>
 
 
