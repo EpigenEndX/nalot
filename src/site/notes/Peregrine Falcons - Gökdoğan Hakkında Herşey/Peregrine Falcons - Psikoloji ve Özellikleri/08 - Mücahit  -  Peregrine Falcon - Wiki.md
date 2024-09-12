@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-psikoloji-ve-oezellikleri/08-muecahit-peregrine-falcon-wiki/","tags":["gardenEntry"]}
 ---
 
-
+--- permalink: /peregrine-falcons/mucahit/ ---
 
 Mücahit,
 Daha fazla bilgi ve video için sol üstteki üç çizgiye tıkla yeni sayfalar açılacaktır.
