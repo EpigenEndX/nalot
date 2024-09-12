@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/08-davranislari/"}
+---
+
+**Davranışları**  
+Havayı yararak düz bir hat boyunca uçuşu tipiktir. Bazen havada daireler çizerek dolaştığı da gözlemlenir. Avını gördüğü anda yükseklerden hızla dalışa geçer. Kanatlarını gövdesine yapıştırarak yaptığı bu "pike" uçuşunda yaklaşık 360 km hıza erişebilir. Gökdoğan, avının büyüklüğüne göre iki yöntem geliştirmiştir: Güvercin iriliğinde veya daha küçük avları havada kavrayıp yakalamak birinci yöntemidir. Diğeri ise, yakaladığında hızını çok ani düşürmesine sebep olup bir hava kazasına yol açabilecek kadar iri avlarını (örneğin ördekleri), yanlarından geçerken vurduğu sıkı bir pençe darbesiyle sakatlayıp yere düşürmektir. Kullandığı yöntem ne olursa olsun, gökdoğan da diğer yırtıcı canlılar gibi %20'lik bir başarı oranına sahiptir. Gökdoğan, beş saldırısının dördünden eli boş döner. Yuvası civarında son derece saldırgan bir kuştur ve yavrularına yönelebilecek tehditlere karşı inanılmaz savunmacıdır.
