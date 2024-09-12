@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-psikoloji-ve-oezellikleri/11-bayagi-dogan-goekdogan-tanimi/"}
+{"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-psikoloji-ve-oezellikleri/11-bayagi-dogan-goekdogan-tanimi/","tags":["gardenEntry"]}
 ---
 
 
