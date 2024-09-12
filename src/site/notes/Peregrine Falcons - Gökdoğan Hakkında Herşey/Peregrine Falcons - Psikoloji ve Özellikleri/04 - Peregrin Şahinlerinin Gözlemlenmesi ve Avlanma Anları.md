@@ -2,6 +2,14 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-psikoloji-ve-oezellikleri/04-peregrin-sahinlerinin-goezlemlenmesi-ve-avlanma-anlari/"}
 ---
 
+
+
+---
+permalink: /peregrin-sahinlerinin-gozlemlenmesi-ve-avlanma-anlari/
+
+---
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h5NnPZtlDEk?si=AXDOhOiX1hmM1IH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
