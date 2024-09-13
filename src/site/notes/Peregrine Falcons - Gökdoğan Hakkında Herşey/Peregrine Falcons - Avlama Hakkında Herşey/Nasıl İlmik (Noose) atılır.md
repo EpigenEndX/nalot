@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-avlama-hakkinda-hersey/nasil-ilmik-noose-atilir/"}
 ---
 
+`LIST link:: [[Nasıl İlmik (Noose) atılır]] `
+
 ### **Adım Adım Talimatlar**
 
 1. **İp Hazırlığı**

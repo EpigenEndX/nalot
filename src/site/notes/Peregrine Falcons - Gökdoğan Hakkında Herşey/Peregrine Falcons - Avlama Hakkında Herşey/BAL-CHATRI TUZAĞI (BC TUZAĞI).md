@@ -4,6 +4,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0hD4P_PW0Yc?si=XZj_44lJ6_X3eSQ2&amp;start=155" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+`LIST link:: [[BAL-CHATRI TUZAĞI (BC TUZAĞI)]] `
+
 Ekipman:
 
 [Complete B.C. Trap - A Western Sporting Exclusive Design](https://www.westernsporting.com/FE3213A/complete-bc-trap-a-western-sporting-exclusive-design-23092307.html) 200 Dolar 

@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-avlama-hakkinda-hersey/goekdogan-satis/"}
 ---
 
+`LIST link:: [[Gökdoğan - Satış]] `
+
 [**İdlib'de Saker Şahini Av Sezonu: Mütevazı Ekipmanlarla Bir Ömürlük Hayalin Peşinde**](https://english.enabbaladi.net/archives/2023/10/saker-falcon-hunting-season-begins-in-idlib-modest-equipment-to-get-lifetime-dream/)
 
 - [17/10/2023](https://english.enabbaladi.net/archives/2023/10/saker-falcon-hunting-season-begins-in-idlib-modest-equipment-to-get-lifetime-dream/#)
