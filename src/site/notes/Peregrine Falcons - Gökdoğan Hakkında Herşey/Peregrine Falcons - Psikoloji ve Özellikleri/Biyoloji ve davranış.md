@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-psikoloji-ve-oezellikleri/biyoloji-ve-davranis/"}
 ---
 
+`LIST link:: [[Biyoloji ve davranış]] ` 
 ## Fiziksel Nitelikler
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Peregrine_Falcon_head_shot.jpg/220px-Peregrine_Falcon_head_shot.jpg)](https://tr.wikipedia.org/wiki/Dosya:Peregrine_Falcon_head_shot.jpg)
@@ -29,6 +30,8 @@ Kayalıklarda yuvasında bir gökdoğan
 _Falco peregrinus_
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Falco_peregrinus_madens_MHNT.ZOO.2010.11.102.8.jpg/220px-Falco_peregrinus_madens_MHNT.ZOO.2010.11.102.8.jpg)](https://tr.wikipedia.org/wiki/Dosya:Falco_peregrinus_madens_MHNT.ZOO.2010.11.102.8.jpg)
+
+Gökdoğanlar, tüm gündüz yırtıcıları gibi tek eşlidir (monogam). Kayada veya ağaçta üreyebilir. Genellikle kayalıklarda üremesine rağmen, Avrupa’nın kayalık olmayan bazı bölgelerinde ağaçta ürediği tespit edilmiştir. Yılda sadece bir kez kuluçkaya yatarlar. Yumurta sayısı 2-5 arasında değişir. Dişi, mart sonunda yumurtlar. Kuluçka süresi 32 gündür. Yavrular 35 gün kadar yuvada kalır. Yavru bakımı için eşler birlikte çalışır; ancak erkek genellikle av getirirken, dişi yuvada kalarak yavruların güvenliğini sağlar. Yavrular uçtuktan sonra da birkaç ay ebeveynleriyle yuvanın yakınlarında yaşar ve avlanmayı öğrenir.
 
 _Falco peregrinus madens_
 

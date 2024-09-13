@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-psikoloji-ve-oezellikleri/davranislari/"}
 ---
 
+`LIST link:: [[Davranışları]] `
+
 **Davranışları**  
 Havayı yararak düz bir hat boyunca uçuşu tipiktir. 
 

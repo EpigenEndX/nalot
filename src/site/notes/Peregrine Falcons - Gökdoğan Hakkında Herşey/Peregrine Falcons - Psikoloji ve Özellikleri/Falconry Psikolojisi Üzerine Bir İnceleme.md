@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-psikoloji-ve-oezellikleri/falconry-psikolojisi-uezerine-bir-inceleme/"}
 ---
 
-## Falconry Psikolojisi Üzerine Bir İnceleme: Pozitif Pekiştirmenin Gücü 
+`LIST link:: [[Falconry Psikolojisi Üzerine Bir İnceleme]] `
 
 Doğancılık, yırtıcı kuşların psikolojisini anlamakla ilgilidir. İnsanlar bana sürekli en tepedeki bu yırtıcıların nelerle motive olduğunu soruyor. Temel olarak, tıpkı insanlar gibi, ilişkiden bir değer elde etmeleri gerekiyor. Pozitif pekiştirme, doğancılıktaki en önemli kavramdır.
 

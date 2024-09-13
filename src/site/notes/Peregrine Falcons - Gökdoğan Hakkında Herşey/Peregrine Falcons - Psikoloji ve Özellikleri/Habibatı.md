@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-psikoloji-ve-oezellikleri/habibati/"}
 ---
 
+`LIST link:: [[Habibatı]] `
+
 **Habitatı**  
 
 Gökdoğanın belirgin bir habitatı yoktur. İçinde yuva için uygun kayalık barındıran dağlar, vadiler, deniz kıyıları, sulak alanlar, nehir ve göl kenarları onun yaşam alanıdır. Bu yüzden tüm dünyaya yayılmış pek çok alt türü vardır. 

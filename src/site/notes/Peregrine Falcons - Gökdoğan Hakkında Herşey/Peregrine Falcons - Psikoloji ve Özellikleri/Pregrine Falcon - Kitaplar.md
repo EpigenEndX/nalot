@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-psikoloji-ve-oezellikleri/pregrine-falcon-kitaplar/"}
 ---
 
+`LIST link:: [[Pregrine Falcon - Kitaplar]] `
+
 https://www.amazon.com.tr/Peregrine-Falcon-Patrick-Stirling-Aird/dp/1554079276
 
 https://tr.annas-archive.org/search?q=Peregrine%20Falcon

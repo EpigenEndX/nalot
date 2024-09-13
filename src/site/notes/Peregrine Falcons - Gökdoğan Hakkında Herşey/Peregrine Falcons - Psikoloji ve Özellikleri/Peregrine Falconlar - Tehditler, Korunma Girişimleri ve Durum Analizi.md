@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-psikoloji-ve-oezellikleri/peregrine-falconlar-tehditler-korunma-girisimleri-ve-durum-analizi/"}
 ---
 
----
-permalink: /peregrine-falconlar-tehditler-korunma-girisimleri-durum-analizi/
----
-
+`LIST link:: [[Peregrine Falconlar - Tehditler, Korunma Girişimleri ve Durum Analizi]] `
 
 Peregrine Falcon (Falco peregrinus), dünyanın en yaygın ve çeşitli kuş türlerinden biridir. Ancak bu kuşun iklim değişikliği, habitat kaybı, avcılık vb. faktörlerin etkileriyle karşılaştığı tehditler varlığını sürdürmektedir. Bu makalede, Peregrine Falconlardan bahsedecek ve bu türün karşılaştığı tehditleri, korunma girişimlerini ve durum analizi ile ilgili bilgileri paylaşacağım.
 

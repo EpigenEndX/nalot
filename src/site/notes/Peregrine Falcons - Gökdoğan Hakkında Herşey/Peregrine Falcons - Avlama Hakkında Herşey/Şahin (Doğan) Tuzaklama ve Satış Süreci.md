@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-avlama-hakkinda-hersey/sahin-dogan-tuzaklama-ve-satis-suereci/"}
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FSWj1XmnSMY?si=nQcf8aFZj7OF6PO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ `LIST link:: [[Şahin (Doğan) Tuzaklama ve Satış Süreci]] `
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/FSWj1XmnSMY?si=nQcf8aFZj7OF6PO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

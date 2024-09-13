@@ -2,5 +2,7 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-psikoloji-ve-oezellikleri/goecue/"}
 ---
 
+`LIST link:: [[Göçü]] `
+
 **Göçü**  
 Kuzey Avrupa popülasyonu genelde göçmendir ve kış aylarında güneye göç eder. Güney Avrupa’dakiler yerleşiktir. Kış aylarında daha çok av bulabilecekleri sulak alanlar ve şehirlere yaklaşırlar.

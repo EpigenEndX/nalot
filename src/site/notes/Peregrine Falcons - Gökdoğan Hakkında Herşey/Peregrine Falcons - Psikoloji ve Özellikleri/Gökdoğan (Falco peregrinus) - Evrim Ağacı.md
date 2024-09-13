@@ -2,14 +2,7 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-psikoloji-ve-oezellikleri/goekdogan-falco-peregrinus-evrim-agaci/"}
 ---
 
-
----
-permalink: /gokdogan-falco-peregrinus-evrim-agaci/
-
----
-
-
-
+`LIST link:: [[Gökdoğan (Falco peregrinus) - Evrim Ağacı]] `
 
 
 ![Avıyla uçarken.](https://cdn.evrimagaci.org/l5v392blo1xd78QiZNlZO8HIu5w=/825x0/filters:format(webp)/storage.evrimagaci.org%2Fold%2Fcontent_media%2F9cbeb2588e1f3afa39d3b5a8dce339f6.jpg)

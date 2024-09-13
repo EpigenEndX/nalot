@@ -2,15 +2,7 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-psikoloji-ve-oezellikleri/dogal-duenyanin-savas-ucagi-sahinin-av-stratejisi-uezerine-bir-bakis/"}
 ---
 
-
-
-
----
-permalink: /dogal-dunyanin-savas-ucagi-sahinin-av-stratejisi-uzerine-bir-bakis/
-
----
-
-## Doğal Dünyanın Savaş Uçağı: Şahinin Av Stratejisi Üzerine Bir Bakış
+`LIST link:: [[Doğal Dünyanın Savaş Uçağı - Şahinin Av Stratejisi Üzerine Bir Bakış]] `
 
 **Giriş:**
 

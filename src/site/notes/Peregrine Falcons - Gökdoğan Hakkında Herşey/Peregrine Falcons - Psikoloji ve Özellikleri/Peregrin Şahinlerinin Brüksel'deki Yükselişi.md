@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-psikoloji-ve-oezellikleri/peregrin-sahinlerinin-brueksel-deki-yuekselisi/"}
 ---
 
-## Peregrin Şahinlerinin Brüksel'deki Yükselişi
+`LIST link:: [[Peregrin Şahinlerinin Brüksel'deki Yükselişi]] `
 
 2004 baharında, **dünyanın en hızlı kuşu olan peregrin şahinleri**, ilk kez bir ornitorinkoloğun hafızasında Brüksel'de yuvalandı. **St. Michael ve St. Gudula Katedrali'nin** kuzey kulesinin en tepesinde doğal bir şekilde yuva kurdular.[1]
 

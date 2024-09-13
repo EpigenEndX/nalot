@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-avlama-hakkinda-hersey/tuzak-ilmikleri-hazirlama-nooses-a-trap/"}
 ---
 
+`LIST link:: [[Tuzak ilmikleri Hazırlama ( Nooses a Trap )]] `
+
 Evet, **"Falconry: How to properly tie nooses for a trap"** başlıklı video, **"falcon avlamak için ilmiği nasıl hazırlamamız gerektiğini"** anlatıyor. 
 
 Videoda, **noose'ların** yani ilmeklerin nasıl düzgün bir şekilde bağlanması gerektiği, tuzağın etkinliği ve güvenliği açısından önemli bir konudur.

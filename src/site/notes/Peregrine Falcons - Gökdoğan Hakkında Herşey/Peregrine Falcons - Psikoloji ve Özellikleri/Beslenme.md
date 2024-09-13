@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-psikoloji-ve-oezellikleri/beslenme/"}
 ---
 
+`LIST link:: [[Beslenme]] ` 
+
 **Beslenme**  
 
 **Peregrine Falcon'un Beslenme Davranışları ve Diyeti**

@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-psikoloji-ve-oezellikleri/kaynakca/"}
 ---
 
+`LIST link:: [[Kaynakça]] `
+
 Atıflar
 
 1.  **[^](https://tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_do%C4%9Fan#cite_ref-1)** Bülent Gözcelioğlu (2002). ["Türkiye Tür Listeleri Sınıf:Aves (Kuşlar)"](https://web.archive.org/web/20150329050919/http://www.biltek.tubitak.gov.tr/bilgipaket/canlilar/TR_tur_listesi/liste_kuslar.htm). [TÜBİTAK](https://tr.wikipedia.org/wiki/T%C3%9CB%C4%B0TAK "TÜBİTAK"). 29 Mart 2015 tarihinde [kaynağından](http://www.biltek.tubitak.gov.tr/bilgipaket/canlilar/TR_tur_listesi/liste_kuslar.htm) arşivlendi. Erişim tarihi: 10 Kasım 2011.

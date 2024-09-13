@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-psikoloji-ve-oezellikleri/insanlarla-iliskileri/"}
 ---
 
-
+`LIST link:: [[İnsanlarla ilişkileri]] `
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Falc%C3%B3n_peregrino.jpg/220px-Falc%C3%B3n_peregrino.jpg)](https://tr.wikipedia.org/wiki/Dosya:Falc%C3%B3n_peregrino.jpg)
 

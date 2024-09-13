@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-psikoloji-ve-oezellikleri/uereme-ve-yasam-cevrimi/"}
 ---
 
-
+`LIST link:: [[Üreme ve yaşam çevrimi]] `
 
 Gökdoğan bir yaşın sonunda cinsel olgunluğa erişir ama sağlıklı popülasyonlarda iki ile üç yaşından sonra çiftleşir. Yaşamları boyunca tekeşlidirler ve aile her yıl aynı yuvaya geri döner. Erkek havada akrobatik hareketlerle, spiral uçuşla ve keskin dalışlarla dişiye kur yapar.<sup id="cite_ref-Dewey_38-3"><a href="https://tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_do%C4%9Fan#cite_note-Dewey-38"><span>[</span>38<span>]</span></a></sup> Erkek yakaladığı avını havada dişiye verir. Dişi, erkeğin pençelerinden avı alabilmek için ters olarak uçar.
 

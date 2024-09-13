@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-psikoloji-ve-oezellikleri/alt-tuerler-ve-dagilimi/"}
 ---
 
+`LIST link:: [[Alt türler ve dağılımı]] ` 
+
 _Falco peregrinus_‘un çok sayıda [alt türü](https://tr.wikipedia.org/wiki/Alt_t%C3%BCr "Alt tür") tanımlanmış, bunlardan on dokuzu, 1994’te _Dünya Kuşları El Kitabı_ adlı kitapta kabul görmüştür.
 
 <sup id="cite_ref-White94_5-1"><a href="https://tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_do%C4%9Fan#cite_note-White94-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-bwp_6-1"><a href="https://tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_do%C4%9Fan#cite_note-bwp-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-Vaurie_(1961)_18-0"><a href="https://tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_do%C4%9Fan#cite_note-Vaurie_(1961)-18"><span>[</span>18<span>]</span></a></sup> Bu kitapta [Kanarya Adaları](https://tr.wikipedia.org/wiki/Kanarya_Adalar%C4%B1 "Kanarya Adaları") ve [Afrika](https://tr.wikipedia.org/wiki/Afrika "Afrika")’nın kuzey kıyılarında bulunan [kızıl enseli doğan](https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l_enseli_do%C4%9Fan "Kızıl enseli doğan") ayrı bir tür (_F. pelegrinoides._) olarak değil, 

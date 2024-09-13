@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-psikoloji-ve-oezellikleri/taksonomi-ve-dagilimi/"}
 ---
 
+`LIST link:: [[Taksonomi ve dağılımı]] `
 
 _Falco peregrinus_ günümüzde kullanılan bilimsel adıyla ilk olarak 1771 yılında İngiliz kuşbilimci [Marmaduke Tunstall](https://tr.wikipedia.org/wiki/Marmaduke_Tunstall "Marmaduke Tunstall") tarafından _Ornithologia Britannica_<sup id="cite_ref-13"><a href="https://tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_do%C4%9Fan#cite_note-13"><span>[</span>13<span>]</span></a></sup> adlı eserinde tanımlanmıştır. _Falco peregrinus_ 1225 yılında [Albertus Magnus](https://tr.wikipedia.org/wiki/Albertus_Magnus "Albertus Magnus") tarafından kullanılmış [halk latincesi](https://tr.wikipedia.org/wiki/Halk_latincesi "Halk latincesi") bir ifadedir. 
 
