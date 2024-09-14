@@ -17,3 +17,38 @@ Gökdoğanların av için dalış yaptıklarında ulaştıkları hız ile ilgili
 René-Jean Monneret’ye göre<sup id="cite_ref-monneret_55-0"><a href="https://tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_do%C4%9Fan#cite_note-monneret-55"><span>[</span>55<span>]</span></a></sup> de kuşun kütlesi, hacmi, aerodinamik sürtünme katsayısı, izlediği yolun yer ile olan açısı ve yolun uzunluğuna göre dik açılı uzun dalışlarda teorik olarak 400 km/s hızın üzerine çıkabileceği hesaplanmaktadır. Bu hesaplamaların tamamen teorik olduğunu ve avlarını çarpmanın yarattığı şok ile öldürmelerinin dışında, gökdoğanların gerçekten bu hızlara ulaştığını gösteren somut bir kanıt olmadığını belirtmek gerekir.
 
 Ken Franklin 2005 yılında 389 km/s hızla dalış yapan bir gökdoğanı kaydetmiştir.<sup id="cite_ref-56"><a href="https://tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_do%C4%9Fan#cite_note-56"><span>[</span>56<span>]</span></a></sup><sup id="cite_ref-57"><a href="https://tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_do%C4%9Fan#cite_note-57"><span>[</span>57<span>]</span></a></sup> Ekstrem durumların dışında gökdoğanın saldırı için dalışta kullandığı normal ölçülmüş hızlar 130 km/s ile 184 km/s arasında değişir.<sup id="cite_ref-58"><a href="https://tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_do%C4%9Fan#cite_note-58"><span>[</span>58<span>]</span></a></sup> Yine de, en azından dalış esnasında, gökdoğan dünyanın en hızlı kuşu olarak kabul edilir. Çok hızlı saldırı dalışlarına rağmen avını sıklıkla kaçırır çünkü bu hızlı dalış sırasında avcısını fark etmiş olan bir kuşu izlemek kolay değildir.
+
+### Günlük Döngü
+
+Peregrine Şahinleri'nin avlanma yetenekleri, insan hayal gücünü büyüleyen bir süreçtir. Bu bölümde, bu kuşların günlük yaşamları ve avlanma davranışları detaylandırılmaktadır.
+
+- **Gözlem ve İzleme**: Peregrine Şahinleri, gün boyunca genellikle yüksek yerlerde, ağaçlarda veya kayalıklarda oturup çevrelerini gözlemler. Bu gözlem süreci, kuşların avlarını dikkatlice izlemelerini sağlar. Gözlemciler, bu kuşların ne kadar dikkatli ve sabırlı olduklarını fark ederler.
+
+- **Avlanma Anı**: Avlanma sırasında, Peregrine Şahinleri genellikle avlarını izlerken görünüşte kayıtsız bir tavır sergilerler. Ancak, avlarına yaklaşırken, ani bir hızla havalanarak avlarını yakalamak için harekete geçerler. Bu süreç, insanlara avlanmanın ne kadar ustaca ve stratejik bir şekilde gerçekleştirildiğini gösterir.
+
+- **Hız ve Güç**: Peregrine Şahinleri, avlarını yakalamak için 45 mil/saat hızla uçabilirler. Bu hız, onları avlarına yaklaşırken bir avantaj sağlar. İnsanlar, bu hızın ve çevikliğin birleşiminin nasıl bir avlanma taktiği oluşturduğunu hayal ederken, bu kuşların avlarını nasıl yakaladığını izlemek büyüleyici bir deneyimdir.
+
+- **Avın Yakalanması**: Peregrine Şahinleri, avlarını yakaladıklarında, genellikle avlarını havada yakalarlar. Bu an, izleyiciler için heyecan verici bir gösteri sunar. Kuşun avını nasıl yakaladığı, avın manevra kabiliyeti ve kuşun stratejisi, insan hayal gücünü harekete geçirir.
+
+- **Beslenme ve Paylaşım**: Avlandıktan sonra, Peregrine Şahinleri genellikle avlarını bir beslenme alanına taşır. Bu alan, yuvalarının yakınında veya belirli bir ledgede olabilir. Burada, avlarını yerken, diğer kuşlarla paylaşma davranışları gözlemlenir. Bu paylaşım, sosyal dinamikleri ve kuşların birbirleriyle olan ilişkilerini anlamak açısından önemlidir.
+
+Bu günlük döngü, Peregrine Şahinleri'nin avlanma süreçlerini ve yaşam tarzlarını gözler önüne sererken, insanlara doğanın karmaşıklığını ve güzelliğini hatırlatır. Bu kuşların davranışları, izleyicilerin hayal gücünü besler ve doğanın nasıl işlediğine dair derin bir takdir duygusu yaratır.
+
+ #Özet 
+ 
+1. <font color="#ffff00">Peregrine şahini genellikle sakin ve gözlemci bir tavırla çevresini izler.</font>
+
+2. <font color="#ffff00">Göç mevsiminde birçok kuş türü şahinin bölgesinden geçer, ancak şahin çoğunu rahatsız etmez.</font>
+
+3. <font color="#ffff00">Şahin sadece yemek için avlanır, gereksiz yere öldürmez.</font>
+
+4. <font color="#ffff00">Avlanırken, şahin başlangıçta ilgisiz görünür ve hedefine yavaşça yaklaşır.</font>
+
+5. <font color="#ffff00">Av başladığında, şahin inanılmaz bir hız ve manevra kabiliyeti gösterir.</font>
+
+6. <font color="#ffff00">Şahin, hızlı uçan posta güvercinleri gibi avları bile yakalayabilir.</font>
+
+7. <font color="#ffff00">Avlanma tekniği, hızlı bir yaklaşma ve son anda yapılan keskin bir manevrayı içerir.</font>
+
+8. <font color="#ffff00">Şahin genellikle avını doğrudan yakalamak yerine, onu düşürmek için üzerinden geçer.</font>
+

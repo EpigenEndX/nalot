@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/tuerkiye-boelgesi-yirtici-kuslar/1-istanbul-un-kus-cesitliligi-ve-yirtici-kuslar/"}
 ---
 
-![Pasted image 20240914134402.png](/img/user/%C4%B0%C3%A7e%20Aktrar%C4%B1lan%20Resimler/Pasted%20image%2020240914134402.png)
-
 `LIST link:: [[İstanbul'un Kuş Çeşitliliği ve Yırtıcı Kuşlar]] `
+
+![Pasted image 20240914134402.png](/img/user/%C4%B0%C3%A7e%20Aktrar%C4%B1lan%20Resimler/Pasted%20image%2020240914134402.png)
 
 **Kuş Çeşitliliği:**  
 
