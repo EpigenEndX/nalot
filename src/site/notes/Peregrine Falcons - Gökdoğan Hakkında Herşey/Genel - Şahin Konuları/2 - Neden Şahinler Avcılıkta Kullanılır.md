@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/genel-sahin-konulari/2-neden-sahinler-avcilikta-kullanilir/"}
 ---
 
-`LIST link:: [[Neden Şahinler Avcılıkta Kullanılır]] `
+`LIST link:: [[2 - Neden Şahinler Avcılıkta Kullanılır]] `
 
 
 Why are falcons used for hunting instead of other predator birds?

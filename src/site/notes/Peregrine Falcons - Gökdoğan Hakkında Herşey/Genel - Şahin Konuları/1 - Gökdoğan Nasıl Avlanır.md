@@ -3,7 +3,7 @@
 ---
 
 
-`LIST link:: [[Gökdoğan Nasıl Avlanır]] `
+`LIST link:: [[1 - Gökdoğan Nasıl Avlanır]] `
 
 ---
 ## Peregrine Şahini Nasıl Avlanır?
