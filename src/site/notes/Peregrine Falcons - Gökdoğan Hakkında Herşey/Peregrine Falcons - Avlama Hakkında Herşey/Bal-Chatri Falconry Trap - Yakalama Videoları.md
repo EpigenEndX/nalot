@@ -6,7 +6,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wBqX0X-GZEw?si=FqDVX7wFqNVWHodY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Gökdoğan Tuzağına Noose (ilmik) Yapımı
+Gökdoğan Tuzağına Noose (ilmik) Yapımı
 
 Falconry tuzağına noose (ilmik) yapımı hakkında detaylı bilgiler sunulmaktadır. 
 Aşağıda, bu sürecin aşamaları ve önemli noktaları belirtilmiştir.
