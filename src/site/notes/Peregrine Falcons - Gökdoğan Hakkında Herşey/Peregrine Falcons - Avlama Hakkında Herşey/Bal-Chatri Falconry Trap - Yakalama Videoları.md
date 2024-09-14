@@ -17,6 +17,42 @@ How to Make and Attach Nooses to a Bal-Chatri Falconry Trap
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-AcFXe1VUCw?si=pDg6j7CLU8bg3Gmx&amp;start=27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Verilen metinde, "İskenderiye ekseni" ifadesi, bir yer veya yol tarifine atıfta bulunuyor gibi görünüyor. Metinde, bir şahinin veya avcının bir yoldan bahsettiği anlaşılıyor ve "İskenderiye'nin kalbi" ifadesi kullanılıyor. Bu, İskenderiye'deki veya İskenderiye'ye giden bir yol veya güzergah olabilir. 
+
+Metin, genel olarak doğan avcılığı ve bu konudaki deneyimlerden bahsediyor. "Karen Süveyş ekseni" ifadesi de geçiyor, bu da Süveyş'e giden veya oradan geçen bir yol veya güzergahı ifade edebilir. Bu bağlamda, İskenderiye ekseni ifadesi, coğrafi bir konum veya ulaşım güzergahı hakkında bilgi veriyor olabilir. Ancak, metnin büyük kısmı doğan avcılığı ve bununla ilgili kişisel deneyimler üzerine odaklanmış durumda.
+
+Yeni doğan yavru doğanların eğitimi, avcılık sezonuna en iyi şekilde hazırlanmalarını sağlamak amacıyla dikkatlice planlanan bir süreçtir. Bu süreçte, yavru doğanlar hem fiziksel hem de zihinsel olarak avcılığa uygun hale getirilir. İlk aşamada, doğanların doğal yeteneklerini geliştirebilmeleri için onları dikkatlice gözlemlemek gerekir. 
+
+Eğitim sürecinde, doğanların çevikliği ve uçuş becerileri üzerine yoğunlaşılır. Yavruların ilk uçuşları, kısa mesafelerde kontrollü alanlarda denenir ve zamanla bu mesafeler artırılarak doğanın farklı koşullarına karşı adapte olmaları sağlanır. Bu aşamada, doğanların avlarını takip edebilme ve hızlı reaksiyon gösterme kabiliyetleri geliştirilir.
+
+Ayrıca, doğanların avcılık becerilerini öğrenme sürecinde, onları dikkatli bir şekilde yönlendirmek ve cesaretlendirmek hayati önem taşır. Av mahareti kazandırılırken, farklı avlanma teknikleri ve stratejiler de tanıtılır. Doğanlar, eğiticilerinin yönlendirmesi ile avın nerede ve nasıl yapılacağına dair sezgilerini geliştirirler.
+
+Bu eğitim sürecinin bir diğer önemli boyutu da, doğanlara insanların yanında rahat hissetmelerini sağlayacak şekilde sosyalizasyon becerileri kazandırmaktır. Böylece, doğanlar hem eğitimcileriyle hem de çevreleriyle uyum içinde çalışabilmeyi öğrenirler.
+
+Sonuç olarak, yeni yavru doğanlar avcılık sezonuna hazırlanırken, hem fiziksel kapasite hem de stratejik düşünme yetenekleri geliştirilir. Bu hazırlık, doğanların yetenekli birer avcı olarak doğanın döngüsüne katılmalarını sağlar ve onlara avcılık yeteneği kazandırarak güçlü ve bağımsız şekilde hareket edebilme olanağı sunar.
+
+
+Videoda doğanların görme yetisinin üstünlüğüne dair verilen bilgiler şunlardır:
+
+1. **Görme Gücü:** Doğanlar, bir insanın görüş kapasitesinin sekiz katı kadar daha güçlü görme yeteneğine sahiptir.
+
+2. **Mesafe Görüşü:** 5 kilometre mesafeden bile küçük bir fareyi görebilirler. 
+
+Bu bilgiler, doğanların ne kadar etkileyici bir görüş yeteneğine sahip olduklarını vurgulamakta ve onların avcılık kabiliyetlerini öne çıkarmaktadır.
+
+### Özet ve Detaylar
+
+Metin, doğan kuşu ve doğan avcılığı üzerine yoğunlaşıyor. Doğanın görme yetisinin ne kadar üstün olduğuna, özellikle insanlarla kıyaslandığında ne kadar etkileyici olduğuna dikkat çekiliyor (5 km mesafeden bir fareyi görebilme yetisi gibi). 
+
+- **Avcılık ve Eğitim:** Avcılık sezonunun başlangıcından ve avın sevincinden bahsediliyor. Doğanların nasıl tutulduğu, eğitildiği ve avlandığı gibi bilgiler sunuluyor. Ayrıca, genç nesillere bu geleneksel yöntemi öğretmenin ne kadar önemli ve neşeli olduğu vurgulanıyor.
+
+- **Basit Tarifler ve Tavsiyeler:** Videonun içeriği, tuzakların nasıl yerleştirileceği ve kim tarafından imal edildiğine dair bilgiler içeriyor. İlgili kişiyle temasa geçmek için telefon numarasının video içinde sunulduğu belirtiliyor. 
+
+- **Yol ve Coğrafi Bilgiler:** İskenderiye’nin kalbi ve Karen Süveyş ekseni gibi güzergahlardan bahsediliyor ki bu yollardan avcılıkla ilgili seyahat ediliyor olabilir.
+
+- **Topluluk ve Katılım Çağrısı:** Topluluğa katılım çağrısı yapılıyor, video beğenisi ve kanal üyeliği teşvik ediliyor. Ayrıca, Dünya Kupası'nın bir Arap ülkesine gitmesi konusunda umutlar dile getiriliyor ve takipçilere teşekkür ediliyor.
+
+Genel olarak, doğan avcılığına ve bu kültür etrafında dönen sosyal bağlantılara vurgu yapıyor, görme yetisi gibi doğanın doğasına dair etkileyici bilgiler sunuyor.
 
 ---
 
