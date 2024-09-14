@@ -5,7 +5,51 @@
 `LIST link:: [[Bal-Chatri Falconry Trap - Yakalama Videoları]] `
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wBqX0X-GZEw?si=FqDVX7wFqNVWHodY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+# Gökdoğan Tuzağına Noose (ilmik) Yapımı
 
+Falconry tuzağına noose (ilmik) yapımı hakkında detaylı bilgiler sunulmaktadır. 
+Aşağıda, bu sürecin aşamaları ve önemli noktaları belirtilmiştir.
+### 00:09 - Monofilament İp Kullanımı
+
+- **Monofilament ip kullanımı**: Gökdoğan tuzağı için önemli bir unsurdur.
+  
+- **Doğru ip seçimi**: Monofilament ip, düğüm yapımında gerekli özellikleri taşır.
+
+- **Avantajlar ve Dezavantajlar**: İpin kalınlığı ve dayanıklılığı, tuzağın etkinliğini etkileyebilir.
+
+- **İp uzunluğu**: Tahmini bir uzunluk kullanmak pratiklik sağlar.
+
+- **Düğüm türleri**: Çift granny düğümü ile başka basit düğümler güvenli bir bağ oluşturur.
+
+### 02:26 - Düğüm Atma Teknikleri
+
+- **Çift düğüm ve halkalar**: Tek ipten nasıl düğüm atılacağını gösterir.
+
+- **Düğüm türleri**: Her bir düğüm belirli bir duruma göre seçilmelidir.
+
+- **Düğüm sağlamlığı**: Düğümlerin sıkı tutulması gereklidir.
+
+- **Alternatif ip türleri**: Monofilament ve örgü ipleri, avlamak amacıyla karşılaştırılmalıdır.
+
+- **İp özellikleri**: Monofilamentin esnek yapısı, avın hareketlerini algılama konusunda hassasiyet kaybına neden olabilir.
+
+### 05:00 - İp Boyutunun Önemi
+
+- **Boyut ayarlaması**: İp boyutu hedef kuş türüne göre değişiklik göstermelidir.
+
+- **İp türleri**: Monofilament hızlı kapanır, örgü ip daha sıkı tutar.
+
+- **Uygun ip seçimi**: Tuzak yaparken sağlamlık ve dayanıklılık önemlidir.
+
+### 07:03 - Düğüm Yerleştirmenin Önemi
+
+- **Düğüm yerleştirme**: Doğru düğüm yerleştirme, etkili yakalamak için kritiktir.
+
+- **Mesafe ayarı**: Düğümlerin arası doğru mesafeyle ayarlanmalıdır.
+
+- **Kontrol gerekliliği**: Düğümlerin sürekli kontrol edilmesi, avın yakalanma oranını artırır.
+
+#falconry #noose #tuzağü yapımı #monofilament #düğümtechnik #avcılık #hayvanhakları
 
 ---
 
@@ -17,7 +61,7 @@ How to Make and Attach Nooses to a Bal-Chatri Falconry Trap
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-AcFXe1VUCw?si=pDg6j7CLU8bg3Gmx&amp;start=27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Verilen metinde, "İskenderiye ekseni" ifadesi, bir yer veya yol tarifine atıfta bulunuyor gibi görünüyor. Metinde, bir şahinin veya avcının bir yoldan bahsettiği anlaşılıyor ve "İskenderiye'nin kalbi" ifadesi kullanılıyor. Bu, İskenderiye'deki veya İskenderiye'ye giden bir yol veya güzergah olabilir. 
+"İskenderiye ekseni" ifadesi, bir yer veya yol tarifine atıfta bulunuyor gibi görünüyor. Metinde, bir şahinin veya avcının bir yoldan bahsettiği anlaşılıyor ve "İskenderiye'nin kalbi" ifadesi kullanılıyor. Bu, İskenderiye'deki veya İskenderiye'ye giden bir yol veya güzergah olabilir. 
 
 Metin, genel olarak doğan avcılığı ve bu konudaki deneyimlerden bahsediyor. "Karen Süveyş ekseni" ifadesi de geçiyor, bu da Süveyş'e giden veya oradan geçen bir yol veya güzergahı ifade edebilir. Bu bağlamda, İskenderiye ekseni ifadesi, coğrafi bir konum veya ulaşım güzergahı hakkında bilgi veriyor olabilir. Ancak, metnin büyük kısmı doğan avcılığı ve bununla ilgili kişisel deneyimler üzerine odaklanmış durumda.
 
