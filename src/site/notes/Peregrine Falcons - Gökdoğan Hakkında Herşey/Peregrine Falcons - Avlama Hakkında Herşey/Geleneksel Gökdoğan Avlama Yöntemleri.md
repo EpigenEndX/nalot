@@ -11,5 +11,5 @@
 
 
 > [!NOTE]
->  Beşinci videoda kuşun (GÜVERCİN) üstüne takılan yöntemi gösteriyor
+>  5 VE 6'ncı videoda kuşun (GÜVERCİN) üstüne takılan yöntemi gösteriyor
 
