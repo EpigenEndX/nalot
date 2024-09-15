@@ -1,0 +1,71 @@
+---
+{"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/genc-ve-yetiskinlerin-taktikleri/j-baker-in-goezlemleri/"}
+---
+
+## Gökdoğanların Avlanma, Dinlenme ve Göç Hareketleri
+
+J.A. Baker, on yıllık gözlemleri sırasında, gökdoğanların avlanma, dinlenme ve göç hareketleri için belirli rotaları takip ettiklerini ayrıntılı bir şekilde kaydetmiştir. Aşağıda, bu notların 5 sayfalık bir özetini bulabilirsiniz.
+
+*Sayfa 1*
+**Avlanma Hareketleri**
+Baker, gökdoğanların avlanma sırasında belirli bir düzen içinde hareket ettiklerini gözlemlemiştir. Öncelikle, tarım alanlarındaki veya ormanlık bölgelerdeki yüksek ağaçlara ya da direklere konarak, etrafı gözlemledikleri bir "gözetleme noktası" seçtiklerini kaydetmiştir. Buradan, yem hayvanlarının hareketlerini takip ederler ve fırsat buldukça aniden saldırıya geçerler.
+
+*Sayfa 2*
+**Saldırı Taktikleri**
+Gökdoğanların, avlarına yaklaşırken alçak ve hızlı uçuşlar yaptıklarını not etmiştir. Bazen de, yüksekten hızla dalarlar ve aniden avlarının üzerine çökerler. Baker, bu saldırı tekniklerinin oldukça etkili olduğunu ve genellikle başarılı sonuçlandığını kaydetmiştir.
+
+*Sayfa 3*
+**Dinlenme Hareketleri**
+Gökdoğanların, günün belirli saatlerinde dinlenmek için tercih ettikleri bölgeleri de gözlemlemiştir. Özellikle, kıyı bölgelerindeki sazlıklar, ağaçlar ve kayalıkları kullandıklarını not etmiştir. Buralarda, saatlerce hareketsiz bir şekilde bekleyerek dinlendiklerini ve tüylerini düzenlediklerini kaydetmiştir.
+
+*Sayfa 4*
+**Göç Hareketleri**
+Baker, gökdoğanların mevsimsel göçleri sırasında da belirli rotaları takip ettiklerini gözlemlemiştir. Sonbahar ve ilkbahar aylarında, kıyı bölgelerinden iç kesimlere ve tam tersi yönde hareketlendiklerini not etmiştir. Bu göç sırasında, vadiler, ormanlar ve tarım alanlarını kullandıklarını kaydetmiştir.
+
+*Sayfa 5*
+**Sonuç**
+J.A. Baker'ın on yıllık gözlemleri, gökdoğanların avlanma, dinlenme ve göç hareketleri için oldukça düzenli ve belirli rotaları takip ettiklerini ortaya koymaktadır. Bu ayrıntılı bilgiler, o dönemdeki gökdoğan popülasyonlarının durumu hakkında önemli ipuçları sunmaktadır.
+
+Anlaşıldı, kitabın tüm detaylarını mümkün olduğunca kapsamlı bir şekilde özetlemeye çalışacağım. Bu, oldukça uzun bir cevap olacak, ancak kitaptaki tüm önemli noktaları yansıtmaya çalışacağım. Lütfen biraz zaman ayırmanız gerekecek, ama böylece kitabın tüm içeriğini daha ayrıntılı bir şekilde görebilirsiniz. Başlıyorum:
+#### <font color="#ffff00">Gökdoğanların Fiziksel Özellikleri</font>
+
+Dişi gökdoğanlar (falkonlar) 17-20 inç uzunluğunda, erkekler (tierceller) ise 14-16 inç uzunluğundadır. Ağırlıkları da dişilerde 1¾-2½ pound, erkeklerde 1¼-1¾ pound arasında değişir. Renkleri, yaşlarına göre değişiklik gösterir. Yetişkinler mavi, mavi-siyah veya gri renktedir, genç bireyler ise kahverengi ve bej tonlarındadır.
+
+<font color="#ffff00">Avlanma Davranışları</font>
+Gökdoğanlar, avlarına yaklaşırken alçak ve hızlı uçuşlar yaparlar. Bazen de yüksekten hızla dalarlar ve aniden avlarının üzerine çökerler. Avcılıkları oldukça etkilidir ve genellikle başarılı sonuçlanır. Avlarını aniden yakalayıp öldürürler, ama Baker bu konuda insanların daha sentimental davrandığını belirtir.
+
+<font color="#ffff00">Dinlenme ve Barınma</font>
+Gökdoğanlar, günün belirli saatlerinde dinlenmek için kıyı bölgelerindeki sazlıklar, ağaçlar ve kayalıkları tercih ederler. Buralarda saatlerce hareketsiz bekleyerek dinlendiklerini ve tüylerini düzenlediklerini gözlemlemiştir.
+
+<font color="#ffff00">Göç Hareketleri</font>
+Mevsimsel göçleri sırasında, gökdoğanlar belirli rotaları takip ederler. Sonbahar ve ilkbahar aylarında, kıyı bölgelerinden iç kesimlere ve tam tersi yönde hareketlendiklerini not etmiştir. Bu göç sırasında, vadiler, ormanlar ve tarım alanlarını kullandıklarını kaydetmiştir.
+
+<font color="#ffff00">Gökdoğanların Yaşam Alanları</font>
+Baker, gökdoğanların yaşam alanlarını da detaylı olarak tanımlar. Onların gerçek doğasını yansıtan bu alanlar, genellikle insanların bildiği statik ve parlak görüntülerden çok farklıdır. Gökdoğanlar, peyzajın derinliklerine gömülü, sürekli kaybolan ve yeniden ortaya çıkan varlıklardır.
+#### Gökdoğanların Memeli Avcılığı
+
+*Giriş*
+Gökdoğanlar (Falco peregrinus), dünyanın en hızlı uçabilen kuş türlerinden biridir ve genellikle kuşları avlayarak beslenmektedirler. Ancak yapılan gözlemler, gökdoğanların bazen memelileri de hedef aldıklarını göstermektedir. Bu rapor, gökdoğanların memeli avcılığı hakkında detaylı bilgi sunmayı amaçlamaktadır.
+
+*Gökdoğanların Memeli Avcılığı*
+Kitapta belirtildiği üzere, gökdoğanlar bazen fareler, sıçanlar ve yaban tavşanları gibi memelileri de avlamaktadır. Bu durum, gökdoğanların avlanma davranışlarının oldukça geniş bir yelpazede olduğunu göstermektedir.
+
+*Fareler ve Sıçanlar*
+Gökdoğanlar, küçük kemirgen türlerini avlarken genellikle bekçi pozisyonunda bekleyip, uygun fırsatı kollayarak hızlı bir şova saldırırlar. Kitapta, bir gökdoğanın bir tarla faresi avladığı ve onu yediği anlatılmaktadır. Ayrıca, gökdoğanların tarlalarda ve çayırlarda avcılık yaptıkları ve sıçanları da hedef aldıkları belirtilmektedir.
+
+*Yaban Tavşanları*
+Gökdoğanların daha büyük memeli türleri olan yaban tavşanlarını da avladıkları kaydedilmiştir. Kitapta, bir gökdoğanın bir kırmızı bacaklı keklik avladıktan sonra onu en az bir mil mesafe taşıdığı anlatılmaktadır. Bu, gökdoğanların güçlü pençeleri ve dayanıklı yapıları sayesinde daha büyük av hayvanlarını da yakalayabildiklerini göstermektedir.
+
+*Diğer Memeli Türleri*
+Kitapta, gökdoğanların bazen yaban faresi, su samuru ve gelincik gibi diğer memeli türlerini de avladıklarına dair bilgiler yer almaktadır. Bu durum, gökdoğanların oldukça çeşitli bir av yelpazesine sahip olduklarını ortaya koymaktadır.
+##### Yazın Sonu ve Gökdoğanların Göç Süreci
+
+1. **Mevsim Değişikliği:** Yazın sona ermesi, doğada belirgin değişikliklere yol açar. Ağaçların yaprakları sararır, günler kısalır ve hava sıcaklıkları düşmeye başlar. Bu değişiklikler, kuşların göç etme içgüdülerini tetikler. Baker, bu dönemde doğanın sessizliğini ve kuşların azalan aktivitelerini gözlemler.
+
+2. **Gökdoğanların Göç Hazırlığı:** Gökdoğanlar, yaz boyunca beslenme ve üreme dönemlerini tamamladıktan sonra, göç için hazırlanmaya başlarlar. Baker, gökdoğanların avlanma davranışlarını gözlemleyerek, bu kuşların göç öncesi son hazırlıklarını yaptıklarını belirtir. Örneğin, gökdoğanlar, sonbahar plajlarında ve tarla kenarlarında daha fazla zaman geçirir, bu da onların enerji depolamak için daha fazla avlanmalarına olanak tanır.
+
+3. **Göç Yolu ve Davranışları:** Gökdoğanlar, göç sırasında belirli yolları takip ederler. Baker, bu kuşların göç ederken nasıl gruplar halinde hareket ettiklerini ve havada süzülerek, rüzgârın yardımıyla nasıl daha az enerji harcadıklarını gözlemler. Gökdoğanlar, genellikle sabah erken saatlerde veya akşamüstü göç ederler, bu da onların daha serin havalarda daha az enerji harcamalarını sağlar.
+
+4. **Karşılaşılan Zorluklar:** Göç süreci, gökdoğanlar için çeşitli zorluklar içerir. Baker, bu kuşların yolda karşılaştıkları hava koşulları, avlanma zorlukları ve diğer yırtıcı kuşlarla olan etkileşimlerini detaylandırır. Örneğin, gökdoğanlar, daha büyük yırtıcı kuşlar tarafından rahatsız edilebilir ve bu durum, onların göç yollarını değiştirmelerine neden olabilir.
+
+Baker'ın gözlemleri, gökdoğanların göç sürecinin detaylarını ve bu süreçteki önemli olayları anlamamıza yardımcı olur. Bu, doğanın döngüsünü ve mevsimlerin geçişini daha iyi kavramamıza olanak tanır. Gökdoğanların göçü, doğanın sürekli değişen yapısının bir yansımasıdır ve bu süreç, Baker'ın yazılarında derin bir şekilde işlenmiştir.

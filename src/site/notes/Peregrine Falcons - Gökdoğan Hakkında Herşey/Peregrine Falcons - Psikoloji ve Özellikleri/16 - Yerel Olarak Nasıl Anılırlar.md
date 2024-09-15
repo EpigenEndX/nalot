@@ -28,16 +28,15 @@ En çok karıştırılabileceği türler:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eSw99MhVyYo?si=TASy7gxzrOqdK1Pq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Vikipedi, özgür ansiklopedi
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5zGCpjpwXEg?si=GfOsOg6w9-lJJm_T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 | Bayağı doğan |
 | --- |
 | [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Falco_peregrinus_-_01.jpg/220px-Falco_peregrinus_-_01.jpg)](https://tr.wikipedia.org/wiki/Dosya:Falco_peregrinus_-_01.jpg) |
 | [Korunma durumu](https://tr.wikipedia.org/wiki/Korunma_durumu "Korunma durumu") |
 | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Status_iucn2.3_LC_tr.svg/220px-Status_iucn2.3_LC_tr.svg.png)  
-[Asgari endişe altında](https://tr.wikipedia.org/wiki/Asgari_endi%C5%9Fe_alt%C4%B1ndaki_t%C3%BCrler "Asgari endişe altındaki türler") <small>&nbsp;(<a href="https://tr.wikipedia.org/wiki/IUCN_K%C4%B1rm%C4%B1z%C4%B1_Listesi" title="IUCN Kırmızı Listesi">IUCN 2.3</a>)</small> |
-| [Biyolojik sınıflandırma](https://tr.wikipedia.org/wiki/Biyolojik_s%C4%B1n%C4%B1fland%C4%B1rma "Biyolojik sınıflandırma") [![Bu sınıflandırmayı düzenle](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr.svg/15px-OOjs_UI_icon_edit-ltr.svg.png)](https://tr.wikipedia.org/wiki/%C5%9Eablon:Taksonomi/Falco "Bu sınıflandırmayı düzenle") |
-| 
+
+
 <table><tbody><tr><td><span>Âlem:</span></td><td><a href="https://tr.wikipedia.org/wiki/Hayvan" title="Hayvan">Animalia</a></td></tr><tr><td><span>Şube:</span></td><td><a href="https://tr.wikipedia.org/wiki/Kordal%C4%B1lar" title="Kordalılar">Chordata</a></td></tr><tr><td><span>Sınıf:</span></td><td><a href="https://tr.wikipedia.org/wiki/Ku%C5%9F" title="Kuş">Aves</a></td></tr><tr><td><span>Takım:</span></td><td><a href="https://tr.wikipedia.org/wiki/Falconiformes" title="Falconiformes">Falconiformes</a></td></tr><tr><td><span>Familya:</span></td><td><a href="https://tr.wikipedia.org/wiki/Falconidae" title="Falconidae">Falconidae</a></td></tr><tr><td><span>Alt familya:</span></td><td><a href="https://tr.wikipedia.org/w/index.php?title=Falconinae&amp;action=edit&amp;redlink=1" title="Falconinae (sayfa mevcut değil)">Falconinae</a></td></tr><tr><td><span>Cins:</span></td><td><a href="https://tr.wikipedia.org/wiki/Falco" title="Falco"><i>Falco</i></a></td></tr><tr><td>Tür:</td><td><i><b>F. peregrinus</b></i></td></tr></tbody></table>
 
 | [İkili adlandırma](https://tr.wikipedia.org/wiki/%C4%B0kili_adland%C4%B1rma "İkili adlandırma") |
