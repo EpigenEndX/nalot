@@ -13,3 +13,4 @@
 > [!NOTE]
 >  5 VE 6'ncı videoda kuşun (GÜVERCİN) üstüne takılan yöntemi gösteriyor. Listenin en sonundaki yöntem biraz zor yapılabilir. 
 
+
