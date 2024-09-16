@@ -2,11 +2,8 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-avlama-hakkinda-hersey/1-arab-tarzi/"}
 ---
 
-```LIST
-link:: [[Arab Tarzı]]
-```
-
-
+`LIST link:: [[Peregrine Falcons - Gökdoğan Hakkında Herşey 🦅/Peregrine Falcons - Avlama Hakkında Herşey 🦅/1 - Arab Tarzı\|1 - Arab Tarzı]]
+`
 
 **Araba tarzı güvercin harnesi üzerine ip dolaştırma** ifadesi, güvercinleri taşımak veya kontrol altında tutmak için kullanılan bir yöntemi ifade etmektedir. Bu yöntem, güvercinlerin daha iyi yönetilmesine yardımcı olur.
 
@@ -18,10 +15,7 @@ ARAP TARZI - İKİLİ İLMİK HAZIRLAMA VE SİLİKONLAMA
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gsn5L3XlXjg?si=T4ivUaYuDzIlTKVN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Tabii! İşte metnin Türkçe versiyonu:
-
 ---
-
 ### **Tuzağı Nasıl Kurarız: Adım Adım Anlatım**
 
 Şimdi size bu tuzağı nasıl kurduğumuzu göstereceğim. Genelde **30 lb (pound)** test kullanırdım ama artık bulamıyorum. Bu yüzden, **26 lb**'lik test yeterince yakın. Şimdi nasıl yapılacağını anlatacağım:
