@@ -6,3 +6,5 @@
 
 `LIST link:: [[Gökdoğan güvercinlere saldırıyor]] `
 
+[Daha fazlası için tıkla!](https://www.youtube.com/@falconperegrineandpigeon354)
+
