@@ -32,6 +32,15 @@
 
 <font color="#ffff00">Bu iki yöntem, peregrin şahinin avlanma stratejilerinin temelini oluşturur ve her biri farklı av türlerine ve koşullara göre tercih edilir.</font>
 
+**Secrets of the Stoop - (Dalışın Sırları):**
+
+1. **High-Speed Dive - Yüksek Hızlı Dalış:** Peregrine falcons perform a high-speed hunting dive known as a "stoop." <font color="#ffff00">Peregrin şahinleri, "stoop" olarak bilinen yüksek hızlı bir av dalışı yapar.</font>
+3. **Wing Folding - Kanat Katlama:** During the stoop, the falcon folds its wings and plummets toward its prey. <font color="#ffff00">Dalış sırasında, şahin kanatlarını kapatır ve avına doğru hızla dalar.</font>
+4. **Large Keel Bone - Büyük Göğüs Kemiği:** They have a large keel bone that allows them to flap their wings vigorously and generate lots of power. Büyük bir göğüs kemiğine sahiptirler, bu da kanatlarını güçlü bir şekilde çırpmalarına ve çok fazla güç üretmelerine olanak tanır.
+5. **Specialized Wings and Feathers - Özel Kanatlar ve Tüyler:** Their wings and feathers are specialized to reduce drag. <font color="#ffff00">Kanatları ve tüyleri sürtünmeyi azaltacak şekilde özelleşmiştir.</font>
+6. **Bullet Shape - Mermi Şekli:** By shaping themselves like a bullet, they can dive at incredible speeds. <font color="#ffff00">Kendilerini bir mermi gibi şekillendirerek inanılmaz hızlarda dalış yapabilirler.</font>
+7. **Speed - Hız:** They can reach speeds of up to 200 mph, making them the fastest animals. <font color="#ffff00">200 mil/saat hıza ulaşabilirler, bu da onları en hızlı hayvanlar yapar.</font>
+
 ### **Diğer Yırtıcı Kuşlar ile Karşılaştırma**
 
 - **Goshawk**: Kısa kanatları ve uzun kuyruğu ile çevik manevralar yapar ve ormanlık alanlarda avlanır.
