@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/tuerkiye-de-yasayan-goekdogan-yetistiricileri-ve-profesyonelleri/1-barlas-potukoenen/"}
 ---
 
-# Niğde’de Doğancılık Kültürünün Yeniden Doğuşu
-
 `LIST link:: [[1 - Barlas Potukönen]] `
-
 ### Giriş
 
 Doğancılık, köklü Türk kültürünün unutulmaya yüz tutmuş bir parçası. Ancak bu eski gelenek, Niğde'de yaşayan Barlas Potukönen gibi gönüllülerin çabalarıyla yeniden canlanıyor. Yırtıcı kuşlara olan merakı çocukluk yıllarına dayanan Potukönen, geleneği yaşatma azmiyle dikkat çekiyor. Bu yazımızda, Potukönen'in doğancılıkla ilgili yolculuğuna ve yırtıcı kuşlarla olan bağının derinliklerine ineceğiz.
