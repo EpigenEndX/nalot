@@ -24,7 +24,7 @@
 
 1. **Düz Kovalamaca (Straight Chase)** [0:32 ](https://youtu.be/r7lglchYNew?si=KhvXUBEgoHaBjGQF&t=32)
    - **Amaç (Purpose):** Bu yöntem, avını doğrudan takip ederek yakalamak içindir.
-   - **Nasıl Yapılır (How it's Done):** Şahin, avını gözlemleyerek ve hızla peşine düşerek avını yakalamaya çalışır. Bu yöntem, avın kaçış manevralarına bağlı olarak daha uzun sürebilir.
+   - **Nasıl Yapılır (How it's Done):** Şahin, avını gözlemleyerek ve hızla peşine düşerek (<font color="#ffff00">daha az etkili yöntemle</font>) avını yakalamaya çalışır. Bu yöntem, avın kaçış manevralarına bağlı olarak daha uzun sürebilir.
 
 2. **Hızlı Dalış (Stooping Dive)** [01:19 ](https://youtu.be/r7lglchYNew?si=KhvXUBEgoHaBjGQF&t=32)
    - **Amaç (Purpose):** Avını şaşırtarak ve hız avantajını kullanarak etkili bir şekilde yakalamak içindir.
