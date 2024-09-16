@@ -28,7 +28,7 @@
 
 2. **Hızlı Dalış (Stooping Dive)** [01:19 ](https://youtu.be/r7lglchYNew?si=KhvXUBEgoHaBjGQF&t=32)
    - **Amaç (Purpose):** Avını şaşırtarak ve hız avantajını kullanarak etkili bir şekilde yakalamak içindir.
-   - **Nasıl Yapılır (How it's Done):** Şahin, yüksek bir noktadan avını gözlemledikten sonra, kanatlarını kapatarak dik bir açıyla dalışa geçer. Bu dalış sırasında saatte 200 mil (yaklaşık 320 km/s) hıza ulaşabilir. Bu hız, avın kaçış şansını oldukça azaltır ve şahin avını genellikle tek bir darbe ile etkisiz hale getirir.
+   - **Nasıl Yapılır (How it's Done):** Şahin, yüksek bir noktadan avını gözlemledikten sonra, kanatlarını kapatarak dik bir açıyla (<font color="#ffff00">Çivi Gibi Kanatları Kapatır</font>) dalışa geçer. Bu dalış sırasında saatte 200 mil (yaklaşık 320 km/s) hıza ulaşabilir. Bu hız, avın kaçış şansını oldukça azaltır ve şahin avını genellikle tek bir darbe ile etkisiz hale getirir.
 
 <font color="#ffff00">Bu iki yöntem, peregrin şahinin avlanma stratejilerinin temelini oluşturur ve her biri farklı av türlerine ve koşullara göre tercih edilir.</font>
 
