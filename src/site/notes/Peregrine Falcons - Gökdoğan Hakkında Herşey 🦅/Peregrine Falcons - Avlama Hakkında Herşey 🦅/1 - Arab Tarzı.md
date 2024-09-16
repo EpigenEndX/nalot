@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-avlama-hakkinda-hersey/1-arab-tarzi/"}
 ---
 
-`LIST link:: [[Peregrine Falcons - Gökdoğan Hakkında Herşey 🦅/Peregrine Falcons - Avlama Hakkında Herşey 🦅/1 - Arab Tarzı\|1 - Arab Tarzı]]
-`
+`LIST link:: [[1 - Arab Tarzı]]`
 
 **Araba tarzı güvercin harnesi üzerine ip dolaştırma** ifadesi, güvercinleri taşımak veya kontrol altında tutmak için kullanılan bir yöntemi ifade etmektedir. Bu yöntem, güvercinlerin daha iyi yönetilmesine yardımcı olur.
 
