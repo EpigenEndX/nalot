@@ -35,17 +35,3 @@ Doğancılık %100 pozitif pekiştirmeyle ilgilidir. Sabırlı olun, tutarlı ol
 
 **Sonuç:** Falconry, insanlarla yırtıcı kuşlar arasında **eşsiz** ve **karmaşık** bir ilişkiyi temsil eder. Bu ilişkinin merkezinde, **pozitif pekiştirme**, **güven** ve **saygı** yer alır. Falconry eğitiminin prensipleri, sadece yırtıcı kuşlarla değil, insanlarla olan ilişkilerimizi de anlamak ve geliştirmek için değerli bilgiler sunmaktadır.
 
-**Dipnotlar:**
-[1] Falconry'nin tarihi ve kültürel önemi hakkında daha fazla bilgi için bkz. [kaynak ekleyin].
-[2] Yırtıcı kuşların davranışları ve ekolojisi hakkında daha fazla bilgi için bkz. [kaynak ekleyin].
-[3] Pozitif pekiştirme ve hayvan eğitimindeki rolü hakkında daha fazla bilgi için bkz. [kaynak ekleyin].
-[4] Falconry eğitiminde yiyecek ödülünün kullanımı hakkında daha fazla bilgi için bkz. [kaynak ekleyin].
-[5] Güvenin hayvan eğitimindeki önemi hakkında daha fazla bilgi için bkz. [kaynak ekleyin].
-[6] Falconry eğitiminin aşamaları ve teknikleri hakkında daha fazla bilgi için bkz. [kaynak ekleyin].
-[7] Pozitif pekiştirmenin insan ilişkilerine uygulanması hakkında daha fazla bilgi için bkz. [kaynak ekleyin].
-
-**Not:** Bu metin, verilen transkripsiyondaki bilgileri akademik bir üslupla sunmayı amaçlamaktadır. Ancak, eksik veya belirsiz bilgiler nedeniyle, bazı noktaları netleştirmek veya daha fazla ayrıntı eklemek için ek kaynaklara ihtiyaç duyulabilir.
-
-FEW HOUR:
-
-Birkaç sata sürebilir şahinin gelmesi.
