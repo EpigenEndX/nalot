@@ -32,7 +32,7 @@
 
 <font color="#ffff00">Bu iki yöntem, peregrin şahinin avlanma stratejilerinin temelini oluşturur ve her biri farklı av türlerine ve koşullara göre tercih edilir.</font>
 
-**Secrets of the Stoop - (Dalışın Sırları):**
+**Secrets of the Stoop - (Dalışın Sırları):** [Youtube'den İzle](<iframe width="560" height="315" src="https://www.youtube.com/embed/RSdm_j5D7tw?si=NYIWRbRSu1stLqPm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
 
 1. **High-Speed Dive - Yüksek Hızlı Dalış:** Peregrine falcons perform a high-speed hunting dive known as a "stoop." <font color="#ffff00">Peregrin şahinleri, "stoop" olarak bilinen yüksek hızlı bir av dalışı yapar.</font>
 3. **Wing Folding - Kanat Katlama:** During the stoop, the falcon folds its wings and plummets toward its prey. <font color="#ffff00">Dalış sırasında, şahin kanatlarını kapatır ve avına doğru hızla dalar.</font>
