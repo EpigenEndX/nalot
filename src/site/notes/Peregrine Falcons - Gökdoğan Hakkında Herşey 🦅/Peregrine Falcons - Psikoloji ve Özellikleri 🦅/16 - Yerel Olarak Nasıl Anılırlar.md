@@ -23,8 +23,6 @@ En çok karıştırılabileceği türler:
 - Delice doğan (Falco subbuteo)  
 - Ada doğanı (Falco eleonorae)  
 
-[![Bu bir seçkin maddedir. Daha fazla bilgi için buraya tıklayın.](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cscr-featured1.svg/20px-Cscr-featured1.svg.png)](https://tr.wikipedia.org/wiki/Vikipedi:Se%C3%A7kin_maddeler "Bu bir seçkin maddedir. Daha fazla bilgi için buraya tıklayın.")
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eSw99MhVyYo?si=TASy7gxzrOqdK1Pq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
