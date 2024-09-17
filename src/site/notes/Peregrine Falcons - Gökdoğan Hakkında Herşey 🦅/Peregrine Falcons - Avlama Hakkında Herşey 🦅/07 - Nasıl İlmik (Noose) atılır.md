@@ -53,3 +53,66 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bz9gBReh_fs?si=I_1SsY2XHnthzzjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gsn5L3XlXjg?si=VxiuaqT3uYzTHWwL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Videoda anlatılanları ve önerileri daha anlaşılır bir şekilde maddeler halinde özetleyebilirim:
+
+1. **Misinanın Seçimi:**
+   - Anlatıcı, genellikle "30 lb test" misina kullandığını ancak artık bulamadığını, bu yüzden "26 PB" misina kullandığını belirtiyor. Kaygandır kavramı genellikle bir nesnenin veya malzemenin kayma, sürtünme ve tutunma özelliklerini ifade eder. Misina türleri arasında kayganlık açısından farklılıklar bulunmaktadır.
+
+### Misina Türleri
+
+1. **Örgü Misina (Braid)**: Genellikle daha kaygan bir yapıya sahiptir. Bu tür misinalar, daha düşük esneme payına sahip oldukları için atış mesafesi ve hassasiyet açısından avantaj sağlar. Ancak, kayganlıkları nedeniyle bazen düğüm atarken zorluk yaşanabilir.
+
+2. **Naylon Misina**: Daha fazla esneklik sunar ve genellikle daha az kaygandır. Sürtünme katsayısı, örgü misinaya göre daha yüksektir, bu da düğümlerin daha iyi tutulmasına yardımcı olabilir.
+
+3. **Fluorocarbon Misina**: Genellikle su altında görünmezlik avantajı sağlar ama kayganlığı örgü misina kadar yüksek değildir. Eğer "hangisi daha kaygandır" sorusunu sorduysanız, genel olarak **örgü misina** diğer türlere göre daha kaygan bir yapıya sahiptir. Bu nedenle, kullanım amacınıza göre seçim yapmanız önemlidir; örneğin, daha fazla tutuş ve kontrol istiyorsanız naylon misina tercih edilebilirken, atış mesafesi ve hassasiyet ön plandaysa örgü misina daha uygun olacaktır.
+
+Citations:
+
+[1] https://dergipark.org.tr/tr/download/article-file/669379
+
+[2] https://bilentyildirim.wordpress.com/2015/01/02/ip-misina-ceker-degerleri/
+
+[3] https://www.altintar.com/Products/Detail/49
+
+[4] https://n11.com/urun/proberos-premier-pro-orgu-misina-pe4-300m-026mm-30lb-19386210
+
+[5] https://www.sabahsuyu.com/urun/linesystem-fluorocarbon-sok-lider-misina-8-0-0-47mm-30lb-30mt
+
+[6] https://www.balikavi.net/konu/orgu-misina-ile-at-cek-yapilabilir-mi.14598/
+
+[7] https://www.sihirliolta.com/orgu-ip-ve-misinalara-giris
+
+[8] https://kaptanav.net/balik/misina/dyneema-ip-misina/prd-dacron-line-ip-misina-10-lb-30-lb
+
+2. **İlmek Yapımı:**
+   - Misina ucunu kesip, bir varil kovanına (barrel sleeve) geçiriyor.
+   - Misina ile bir ilmek oluşturup, tekrar varil kovanına geri geçiriyor.
+   - Varil kovanı, misinanın iki kez geçebileceği genişlikte olmalı.
+
+3. **İlmeği Sıkma:**
+   - Doğal eğriliği takip ederek ilmeği sıkıyor.
+   - İlmeği sıkarken, misinanın kolayca geçebileceği ama çok da gevşek olmayacak bir delik bırakıyor.
+
+4. **Kıvırma İşlemi:**
+   - Kanal kilitleri (channel locks) kullanarak misinayı düzleştiriyor ve sıkıştırıyor.
+   - Varilin yarısına kadar sıkıştırdıktan sonra, metal bir yüzeyde 90 derece büküyor.
+
+5. **Tuzak Kurulumu:**
+   - İlmeği tuzağa yerleştiriyor.
+   - İlmeği, ağın veya donanım bezinin köşelerinden geçiriyor ve tekrar varil kovanına geri geçiriyor.
+
+6. **İlmeği Sabitleme:**
+   - İlmeği sıkıca tutmak için hafifçe kıvırıyor ve ardından tamamen sıkıştırıyor.
+   - İlmeğin hareket etmesini önlemek için sıcak tutkal kullanıyor.
+
+7. **Tuzak Kullanımı:**
+   - Kuşun tuzağa yakalanması durumunda ilmeğin nasıl çalıştığını gösteriyor.
+   - İlmeğin açılmaması için doğru pozisyonda sabitlenmesi gerektiğini belirtiyor.
+
+8. **Genel Tavsiyeler:**
+   - İlmeklerin ve tuzakların doğru açılarla ayarlanmasının önemini vurguluyor.
+   - Tüm ilmeklerin yeniden ayarlanması gerektiğini belirtiyor.
+
+Bu adımlar, videoda anlatılan tuzak kurma ve misina kullanma sürecini daha anlaşılır hale getirmektedir.
