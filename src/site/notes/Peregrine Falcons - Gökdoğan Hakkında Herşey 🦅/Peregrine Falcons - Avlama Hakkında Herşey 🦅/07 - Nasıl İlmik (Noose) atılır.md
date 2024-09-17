@@ -68,6 +68,33 @@ Videoda anlatılanları ve önerileri daha anlaşılır bir şekilde maddeler ha
 
 3. **Fluorocarbon Misina**: Genellikle su altında görünmezlik avantajı sağlar ama kayganlığı örgü misina kadar yüksek değildir. Eğer "hangisi daha kaygandır" sorusunu sorduysanız, genel olarak **örgü misina** diğer türlere göre daha kaygan bir yapıya sahiptir. Bu nedenle, kullanım amacınıza göre seçim yapmanız önemlidir; örneğin, daha fazla tutuş ve kontrol istiyorsanız naylon misina tercih edilebilirken, atış mesafesi ve hassasiyet ön plandaysa örgü misina daha uygun olacaktır.
 
+<font color="#ffff00">Örgü misina, balıkçılıkta ve diğer uygulamalarda sıklıkla tercih edilen bir seçenektir. İşte örgü misinanın bazı avantajları ve dezavantajları:</font>
+
+### Avantajlar:
+1. **Güç ve Dayanıklılık:**
+   - Örgü misinalar genellikle daha yüksek çekme kuvvetine sahiptir, bu da onları dayanıklı ve güçlü kılar.
+   
+2. **Duyarlılık:**
+   - Daha az esneme özelliğine sahip oldukları için, daha fazla duyarlılık sunarlar ve bu da tuzağı kurarken veya kontrol ederken avantaj sağlar.
+
+3. **Çap:**
+   - Örgü misinalar, daha ince çapa rağmen daha yüksek yük kapasitesi sunabilir. Bu, daha az görünürlük anlamına da gelebilir.
+
+4. **Üzerine birçok kez tekrar kullanım:**
+   - Dayanıklılığı sayesinde, birçok kez kullanılabilir ve "yıpranma" riskini azaltır.
+
+### Dezavantajlar:
+1. **Düğüm Tutma:**
+   - Örgü misinalar, düğüm tutmada zaman zaman sorun çıkarabilir ve bu da özellikle ilmek yaparken bir dezavantaj olabilir.
+
+2. **Kayma:**
+   - Misina daha kaygan olduğu için, düğümleme sırasında kayma sorunları yaşanabilir, bu da tuzak için güvenli bir tutuş sağlamayı zorlaştırabilir.
+
+3. **Rüzgar ve Su Akımı:**
+   - Hafifliği ve ince yapısı nedeniyle, örgü misinalar rüzgar ve su akımından daha fazla etkilenebilir.
+
+Sonuç olarak, örgü misinalar bazı durumlarda uygun olabilirken, daha az esneyen, daha duyarlı ve güçlü yapıları sayesinde tercih edilebilir. Ancak, ilmeklerin düzgün ve sağlam şekilde düğümlenmesini sağlamak için kullanılan tekniğe dikkat edilmelidir. Eğer örgü misina tercih ediliyorsa, düğümlerin güvenliğini sağlamak için ek önlemler alınması gerekebilir. Kişisel tercih ve uygulama şartlarına göre, uygun olan misina türünü seçmek önemlidir.
+
 Citations:
 
 [1] https://dergipark.org.tr/tr/download/article-file/669379
