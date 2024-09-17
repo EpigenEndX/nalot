@@ -95,6 +95,25 @@ Videoda anlatılanları ve önerileri daha anlaşılır bir şekilde maddeler ha
 
 Sonuç olarak, örgü misinalar bazı durumlarda uygun olabilirken, daha az esneyen, daha duyarlı ve güçlü yapıları sayesinde tercih edilebilir. Ancak, ilmeklerin düzgün ve sağlam şekilde düğümlenmesini sağlamak için kullanılan tekniğe dikkat edilmelidir. Eğer örgü misina tercih ediliyorsa, düğümlerin güvenliğini sağlamak için ek önlemler alınması gerekebilir. Kişisel tercih ve uygulama şartlarına göre, uygun olan misina türünü seçmek önemlidir.
 
+> [!NOTE]
+>-BC Muhafaza Malzemesi: 
+> 1/2" x 1/2" tel örgü, yemlerin görünürlüğünü artırmak için siyaha boyanması avantajdır.
+   İlmikler:
+  -15# Test Mono: Kerkenez, keskin ve merlin gibi küçük yırtıcıları tuzaklamak için uygun.
+  -20# Test Mono: Orta ve büyük şahinleri tuzaklamak için iyi bir genel amaçlı güç ve sertlik; varsayılan olarak kullanılacak.
+
+> [!NOTE]
+>-Yemler:
+  -Farelerden sığırcıklara kadar her şey kullanılabilir.
+  -Favori kombinasyonlar: İki sığırcık veya bir sığırcık ve bir fare ya da gerbil 
+   (tarla faresi, çöl faresi) 
+  -Kızıl kuyruklular bu kombinasyonlara karşı koyamaz.
+  -Tek tür yem de işe yarar.
+ -Tarla faresi, farelerden daha düşük sıcaklıklarda daha aktif oldukları için kızıl kuyrukluları daha iyi çekebilir. Sıcaklıklar donma noktasının altına düştüğünde, fareler genellikle kıvrılıp çok fazla hareket etmezler.
+
+> [!NOTE]
+> Gerbiller, Türkçede "tarla faresi" veya "çöl faresi" olarak bilinen küçük kemirgenlerdir. Genellikle evcil hayvan olarak da beslenirler ve farelere benzerler, ancak daha uzun kuyrukları ve arka bacaklarıyla dikkat çekerler. Çöl iklimine adapte olmuşlardır ve bu nedenle daha düşük sıcaklıklarda daha aktif olabilirler.
+
 Citations:
 
 [1] https://dergipark.org.tr/tr/download/article-file/669379
