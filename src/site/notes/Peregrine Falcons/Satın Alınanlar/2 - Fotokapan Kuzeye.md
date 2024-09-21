@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/satin-alinanlar/2-fotokapan-kuzeye/","tags":["gardenEntry"],"updated":"2024-09-21T16:41:16.866+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/satin-alinanlar/2-fotokapan-kuzeye/","tags":["gardenEntry"],"updated":"2024-09-21T16:41:51.553+03:00"}
 ---
 
-`LIST link:: [[2 - Fotokapanı Konumlandır 0\|2 - Fotokapanı Konumlandır 0]]
+`LIST link:: [[Peregrine Falcons/Satın Alınanlar/2 - Fotokapan Kuzeye\|2 - Fotokapan Kuzeye]]
 `
 
 Fotokapanların konumlandırılması, etkili bir şekilde çalışmaları için oldukça önemlidir. 
