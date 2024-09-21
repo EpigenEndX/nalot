@@ -9,13 +9,13 @@ Fotokapanların konumlandırılması, etkili bir şekilde çalışmaları için 
 ### Güneş Işığına Maruz Kalma
 - **Güneş Işığından Kaçınma:** Fotokapanlar, doğrudan güneş ışığı almamalıdır. Objektifin güneş ışığına maruz kalması, gereksiz ışık patlamalarına ve pil ömrünün hızlı tüketilmesine neden olabilir.
 
-![Pasted image 20240921155444.png](/img/user/Pasted%20image%2020240921155444.png)
+![Pasted image 20240921155444.png](/img/user/Veritaban%C4%B1%20(Resim)/Pasted%20image%2020240921155444.png)
 ### Yerleştirme Yönü
 - **Kuzey Yönü:** Fotokapanlar genellikle kuzey yönüne doğru yerleştirilmelidir. Bu, güneş ışığının en az olduğu yön olduğu için, cihazın daha az ısınmasını ve daha uzun süre çalışmasını sağlar.
   
 - **Doğru Açı:** Fotokapanın açısı, hareket algılama yeteneğini etkileyebilir. Cihaz, hareketin en çok olabileceği alanı görecek şekilde yerleştirilmelidir.
 
-![Pasted image 20240921155517.png](/img/user/Pasted%20image%2020240921155517.png)
+![Pasted image 20240921155517.png](/img/user/Veritaban%C4%B1%20(Resim)/Pasted%20image%2020240921155517.png)
 Kuzey ve güney yönleri için Türkçe ve İngilizce'de kullanılan kısaltmalar ve terimler aşağıdaki gibidir:
 
 ### Türkçe Kısaltmalar
