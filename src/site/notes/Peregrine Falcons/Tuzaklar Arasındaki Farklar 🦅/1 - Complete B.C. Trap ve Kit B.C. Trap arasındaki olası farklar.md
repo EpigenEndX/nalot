@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/tuzaklar-arasindaki-farklar/1-complete-b-c-trap-ve-kit-b-c-trap-arasindaki-olasi-farklar/","updated":"2024-09-12T02:13:17.253+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/tuzaklar-arasindaki-farklar/1-complete-b-c-trap-ve-kit-b-c-trap-arasindaki-olasi-farklar/","updated":"2024-09-21T16:52:51.739+03:00"}
 ---
+
+`LIST link:: [[Peregrine Falcons/Tuzaklar Arasındaki Farklar 🦅/1 - Complete B.C. Trap ve Kit B.C. Trap arasındaki olası farklar\|1 - Complete B.C. Trap ve Kit B.C. Trap arasındaki olası farklar]]
+`
 
 **Complete B.C. Trap** ve **Kit B.C. Trap** arasındaki olası farklar:
 

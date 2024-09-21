@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/tuzaklar-taktik-ve-teknikler/1-falconer-ve-gazze-ag-sistemi-ile-yakalama/","updated":"2024-09-12T02:13:23.139+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/tuzaklar-taktik-ve-teknikler/1-falconer-ve-gazze-ag-sistemi-ile-yakalama/","updated":"2024-09-21T16:51:41.398+03:00"}
 ---
 
-
----
-
+`LIST link:: [[Peregrine Falcons/Tuzaklar (Taktik ve Teknikler)/1 - Falconer ve Gazze Ağ Sistemi İle Yakalama\|1 - Falconer ve Gazze Ağ Sistemi İle Yakalama]]
+`
 # Falconer ve Gazze Ağ Sistemi İncelemesi
 
 **Herkese merhaba, Ben Woodr**. Bugün sizlerle başka bir **Falconer videosuyla** karşınızdayım. Bugünkü videoda **Batı Sporları'nın** ürettiği inanılmaz bir **Gazze Ağ Sistemi** hakkında konuşacağız.

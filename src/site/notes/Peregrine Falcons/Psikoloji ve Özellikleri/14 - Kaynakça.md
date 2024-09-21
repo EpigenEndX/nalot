@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/14-kaynakca/","updated":"2024-09-13T14:59:34.319+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/14-kaynakca/","updated":"2024-09-21T16:47:30.557+03:00"}
 ---
 
-`LIST link:: [[Kaynakça]] `
+`LIST link:: [[14 - Kaynakça]] `
 
 Atıflar
 

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/15-davranislari/","updated":"2024-09-13T14:56:49.052+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/15-davranislari/","updated":"2024-09-21T16:47:35.507+03:00"}
 ---
 
-`LIST link:: [[Davranışları]] `
+`LIST link:: [[15 - Davranışları]] `
 
 **Davranışları**  
 Havayı yararak düz bir hat boyunca uçuşu tipiktir. 
