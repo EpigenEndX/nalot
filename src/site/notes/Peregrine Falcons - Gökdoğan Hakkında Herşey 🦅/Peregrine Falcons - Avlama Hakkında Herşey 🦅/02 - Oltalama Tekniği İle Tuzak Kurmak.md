@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-avlama-hakkinda-hersey/02-oltalama-teknigi-ile-tuzak-kurmak/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/peregrine-falcons-goekdogan-hakkinda-hersey/peregrine-falcons-avlama-hakkinda-hersey/02-oltalama-teknigi-ile-tuzak-kurmak/"}
 ---
 
 `LIST link:: [[10 - Oltalama Tekniği İle Tuzak Kurmak\|10 - Oltalama Tekniği İle Tuzak Kurmak]]
