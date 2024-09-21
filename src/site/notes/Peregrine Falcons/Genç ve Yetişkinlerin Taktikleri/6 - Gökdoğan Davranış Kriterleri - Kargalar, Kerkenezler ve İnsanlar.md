@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/genc-ve-yetiskinlerin-taktikleri/6-goekdogan-davranis-kriterleri-kargalar-kerkenezler-ve-insanlar/","updated":"2024-09-16T15:48:47.114+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/genc-ve-yetiskinlerin-taktikleri/6-goekdogan-davranis-kriterleri-kargalar-kerkenezler-ve-insanlar/"}
 ---
 
 `LIST link:: [[6 - Gökdoğan Davranış Kriterleri - Kargalar, Kerkenezler ve İnsanlar]] `

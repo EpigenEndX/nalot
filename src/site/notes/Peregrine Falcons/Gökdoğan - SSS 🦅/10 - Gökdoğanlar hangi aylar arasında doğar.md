@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/10-goekdoganlar-hangi-aylar-arasinda-dogar/","updated":"2024-09-16T15:52:19.056+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/10-goekdoganlar-hangi-aylar-arasinda-dogar/"}
 ---
 
 `LIST link:: [[10 - Gökdoğanlar hangi aylar arasında doğar]] `

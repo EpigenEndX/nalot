@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/15-davranislari/","updated":"2024-09-21T16:47:35.507+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/15-davranislari/"}
 ---
 
 `LIST link:: [[15 - Davranışları]] `

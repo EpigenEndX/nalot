@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-soezluegue/3-peregrine-falcon-nesting-ciftlesme-yumurtlama-yavru-bakimi-yuva-yapma/","updated":"2024-09-16T13:35:30.820+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-soezluegue/3-peregrine-falcon-nesting-ciftlesme-yumurtlama-yavru-bakimi-yuva-yapma/"}
 ---
 
 Yuva yapma

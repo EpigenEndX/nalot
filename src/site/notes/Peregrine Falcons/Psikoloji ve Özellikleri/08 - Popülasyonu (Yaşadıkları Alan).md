@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/08-popuelasyonu-yasadiklari-alan/","updated":"2024-09-21T16:36:17.192+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/08-popuelasyonu-yasadiklari-alan/"}
 ---
 
 `LIST link:: [[08 - Popülasyonu (Yaşadıkları Alan)]] `

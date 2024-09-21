@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/16-pregrine-falcon-kitaplar/","updated":"2024-09-21T16:48:28.216+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/16-pregrine-falcon-kitaplar/"}
 ---
 
 `LIST link:: [[16 - Pregrine Falcon - Kitaplar]] `

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/03-alt-tuerler-ve-dagilimi/","updated":"2024-09-21T16:32:58.207+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/03-alt-tuerler-ve-dagilimi/"}
 ---
 
 `LIST link:: [[03 - Alt türler ve dağılımı]] ` 

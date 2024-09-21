@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/11-sahin-avi-tuzak-yapimi/","updated":"2024-09-17T20:44:06.795+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/11-sahin-avi-tuzak-yapimi/"}
 ---
 
 https://www.youtube.com/watch?v=WNyDhfIO9qA

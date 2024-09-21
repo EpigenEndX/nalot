@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-atak-anlari-0/4-goekdogan-ve-kartal-kartallara-hizli-ve-oefkeliyi-oegretiyor/","updated":"2024-09-21T16:43:14.692+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-atak-anlari-0/4-goekdogan-ve-kartal-kartallara-hizli-ve-oefkeliyi-oegretiyor/"}
 ---
 
 Gökdoğan, avlanırken saatte 389 km hıza ulaşabilen dünyanın en hızlı avcı kuşudur. Bu inanılmaz hız, gökdoğanın avlanmada son derece başarılı olmasını sağlar. Gökdoğan ayrıca kartallarla da mücadele edebilen bir kuştur. Kartallar, gökdoğanın hızından, gücünden ve cesaretinden korkarlar. Kartalların gücüne ve büyüklüğüne rağmen, gökdoğan hız ve taktik zekasıyla onları geride bırakabilir. Pençeleri kartallarınkinden daha keskin ve güçlüdür. Bu pençeleri kullanarak kartallara ciddi yaralar verebilir.

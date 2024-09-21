@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/sahin/2-neden-sahinler-avcilikta-kullanilir/","updated":"2024-09-14T16:17:31.708+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/sahin/2-neden-sahinler-avcilikta-kullanilir/"}
 ---
 
 `LIST link:: [[2 - Neden Şahinler Avcılıkta Kullanılır]] `

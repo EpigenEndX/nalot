@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/tuzaklar-youtube-arsivi/1-avlama-arsivi/","updated":"2024-09-21T16:52:17.621+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/tuzaklar-youtube-arsivi/1-avlama-arsivi/"}
 ---
 
 https://www.youtube.com/@RaptorsToday

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/16-tuerkiye-de-hangi-boelgelerde-var/","updated":"2024-09-16T15:54:15.060+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/16-tuerkiye-de-hangi-boelgelerde-var/"}
 ---
 
 `LIST link:: [[16 - Türkiye'de hangi bölgelerde var]] `

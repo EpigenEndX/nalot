@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-soezluegue/2-incubate-kuluckaya-yatmak/","updated":"2024-09-16T15:57:53.450+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-soezluegue/2-incubate-kuluckaya-yatmak/"}
 ---
 
 Kuluçkaya yatmak (İnkübasyon)

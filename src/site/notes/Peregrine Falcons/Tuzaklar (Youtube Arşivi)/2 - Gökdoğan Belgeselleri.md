@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/tuzaklar-youtube-arsivi/2-goekdogan-belgeselleri/","updated":"2024-09-21T16:09:44.290+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/tuzaklar-youtube-arsivi/2-goekdogan-belgeselleri/"}
 ---
 
 `LIST link:: [[Peregrine Falcons/Tuzaklar (Youtube Arşivi)/2 - Gökdoğan Belgeselleri\|2 - Gökdoğan Belgeselleri]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-atak-anlari-0/6-oeluem-kusu-goekdogan-tek-vurus-sinemelarda/","updated":"2024-09-21T16:43:56.991+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-atak-anlari-0/6-oeluem-kusu-goekdogan-tek-vurus-sinemelarda/"}
 ---
 
 `LIST link:: [[6 - Ölüm Kuşu - Gökdoğan (Tek Vuruş) Sinemelarda]] `

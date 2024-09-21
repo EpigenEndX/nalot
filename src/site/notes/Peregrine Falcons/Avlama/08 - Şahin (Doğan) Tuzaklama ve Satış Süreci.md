@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/08-sahin-dogan-tuzaklama-ve-satis-suereci/","updated":"2024-09-21T16:28:01.890+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/08-sahin-dogan-tuzaklama-ve-satis-suereci/"}
 ---
 
  `LIST link:: [[08 - Şahin (Doğan) Tuzaklama ve Satış Süreci]] `

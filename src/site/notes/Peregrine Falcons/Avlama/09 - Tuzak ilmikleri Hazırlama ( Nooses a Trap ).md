@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/09-tuzak-ilmikleri-hazirlama-nooses-a-trap/","updated":"2024-09-21T16:28:07.747+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/09-tuzak-ilmikleri-hazirlama-nooses-a-trap/"}
 ---
 
 `LIST link:: [[09 - Tuzak ilmikleri Hazırlama ( Nooses a Trap )]] `

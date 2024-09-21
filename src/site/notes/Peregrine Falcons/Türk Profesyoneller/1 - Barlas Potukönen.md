@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/tuerk-profesyoneller/1-barlas-potukoenen/","updated":"2024-09-16T21:32:13.313+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/tuerk-profesyoneller/1-barlas-potukoenen/"}
 ---
 
 `LIST link:: [[1 - Barlas Potukönen]] `

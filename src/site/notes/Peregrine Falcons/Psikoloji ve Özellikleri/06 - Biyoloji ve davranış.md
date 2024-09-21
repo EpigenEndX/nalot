@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/06-biyoloji-ve-davranis/","updated":"2024-09-21T16:33:14.121+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/06-biyoloji-ve-davranis/"}
 ---
 
 `LIST link:: [[06 - Biyoloji ve davranış]] ` 

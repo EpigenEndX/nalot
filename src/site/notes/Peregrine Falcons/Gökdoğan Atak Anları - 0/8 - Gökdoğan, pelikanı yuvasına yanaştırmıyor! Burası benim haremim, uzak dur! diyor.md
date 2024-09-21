@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-atak-anlari-0/8-goekdogan-pelikani-yuvasina-yanastirmiyor-burasi-benim-haremim-uzak-dur-diyor/","updated":"2024-09-21T16:44:15.279+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-atak-anlari-0/8-goekdogan-pelikani-yuvasina-yanastirmiyor-burasi-benim-haremim-uzak-dur-diyor/"}
 ---
 
 `LIST link:: [[8 - Gökdoğan, pelikanı yuvasına yanaştırmıyor! Burası benim haremim, uzak dur! diyor]] `

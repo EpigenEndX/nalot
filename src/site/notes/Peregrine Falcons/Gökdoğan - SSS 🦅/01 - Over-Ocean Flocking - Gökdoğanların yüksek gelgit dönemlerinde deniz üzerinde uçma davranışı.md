@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/01-over-ocean-flocking-goekdoganlarin-yueksek-gelgit-doenemlerinde-deniz-uezerinde-ucma-davranisi/","updated":"2024-09-16T15:50:59.013+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/01-over-ocean-flocking-goekdoganlarin-yueksek-gelgit-doenemlerinde-deniz-uezerinde-ucma-davranisi/"}
 ---
 
 `LIST link:: [[01 - Over-Ocean Flocking - Gökdoğanların yüksek gelgit dönemlerinde deniz üzerinde uçma davranışı]] `

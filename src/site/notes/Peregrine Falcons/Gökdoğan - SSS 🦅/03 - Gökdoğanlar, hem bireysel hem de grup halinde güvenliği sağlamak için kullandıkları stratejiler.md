@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/03-goekdoganlar-hem-bireysel-hem-de-grup-halinde-guevenligi-saglamak-icin-kullandiklari-stratejiler/","updated":"2024-09-16T15:51:10.945+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/03-goekdoganlar-hem-bireysel-hem-de-grup-halinde-guevenligi-saglamak-icin-kullandiklari-stratejiler/"}
 ---
 
 `LIST link:: [[03 - Gökdoğanlar, hem bireysel hem de grup halinde güvenliği sağlamak için kullandıkları stratejiler]] `

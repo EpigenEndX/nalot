@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/10-orta-dogu-da-dahiyane-ag-tuzagi-kurma-yoentemi/","updated":"2024-09-17T20:41:21.233+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/10-orta-dogu-da-dahiyane-ag-tuzagi-kurma-yoentemi/"}
 ---
 
 `LIST link:: [[Peregrine Falcons/Avlama/10 - Orta Doğu'da - Dahiyane Ağ Tuzağı Kurma Yöntemi\|10 - Orta Doğu'da - Dahiyane Ağ Tuzağı Kurma Yöntemi]]

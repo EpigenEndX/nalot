@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/10-beslenme/","updated":"2024-09-21T16:34:53.436+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/10-beslenme/"}
 ---
 
 `LIST link:: [[10 - Beslenme]] ` 

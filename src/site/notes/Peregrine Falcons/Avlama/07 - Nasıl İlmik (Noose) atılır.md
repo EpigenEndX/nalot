@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/07-nasil-ilmik-noose-atilir/","updated":"2024-09-21T16:27:56.810+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/07-nasil-ilmik-noose-atilir/"}
 ---
 
 `LIST link:: [[07 - Nasıl İlmik (Noose) atılır]] `

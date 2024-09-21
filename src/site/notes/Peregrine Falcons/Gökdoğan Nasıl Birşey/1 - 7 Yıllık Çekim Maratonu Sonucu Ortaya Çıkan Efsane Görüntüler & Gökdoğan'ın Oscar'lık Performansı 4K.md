@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-nasil-birsey/1-7-yillik-cekim-maratonu-sonucu-ortaya-cikan-efsane-goeruentueler-and-goekdogan-in-oscar-lik-performansi-4-k/","updated":"2024-09-16T14:16:23.348+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-nasil-birsey/1-7-yillik-cekim-maratonu-sonucu-ortaya-cikan-efsane-goeruentueler-and-goekdogan-in-oscar-lik-performansi-4-k/"}
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iE46Ta0Akew?si=zU660GaPt5LWd2Ts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

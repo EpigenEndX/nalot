@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/18-tehditler-korunma-girisimleri-ve-durum-analizi/","updated":"2024-09-21T16:49:14.142+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/18-tehditler-korunma-girisimleri-ve-durum-analizi/"}
 ---
 
 `LIST link:: [[18 - Tehditler, Korunma Girişimleri ve Durum Analizi]] `

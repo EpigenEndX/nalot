@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/04-bal-chatri-falconry-trap/","updated":"2024-09-21T16:27:33.275+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/04-bal-chatri-falconry-trap/"}
 ---
 
 `LIST link:: [[04 - Bal-Chatri Falconry Trap]] `

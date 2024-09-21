@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/04-bir-alaca-sahinin-goekdogan-dalis-sirasinda-bu-kadar-hiza-ulasmasi-nasil-muemkuen-olabilir/","updated":"2024-09-16T15:51:18.488+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/04-bir-alaca-sahinin-goekdogan-dalis-sirasinda-bu-kadar-hiza-ulasmasi-nasil-muemkuen-olabilir/"}
 ---
 
 <iframe width="656" height="369" src="https://www.youtube.com/embed/y7rOjh4Lr78" title="Why peregrine falcons are the fastest animals on earth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-atak-anlari-0/9-en-iyi-5-goekdogan-saldirisi/","updated":"2024-09-21T16:44:25.534+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-atak-anlari-0/9-en-iyi-5-goekdogan-saldirisi/"}
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D_G05RvFfRA?si=PTK-sXuD4D6KVf36" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

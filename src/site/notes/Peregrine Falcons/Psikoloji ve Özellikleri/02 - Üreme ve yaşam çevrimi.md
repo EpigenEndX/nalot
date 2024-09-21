@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/02-uereme-ve-yasam-cevrimi/","updated":"2024-09-21T16:32:53.004+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/02-uereme-ve-yasam-cevrimi/"}
 ---
 
 `LIST link:: [[02 - Üreme ve yaşam çevrimi]] `

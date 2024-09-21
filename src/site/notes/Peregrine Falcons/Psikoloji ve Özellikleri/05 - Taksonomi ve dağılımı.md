@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/05-taksonomi-ve-dagilimi/","updated":"2024-09-21T16:33:09.115+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/05-taksonomi-ve-dagilimi/"}
 ---
 
 `LIST link:: [[05 - Taksonomi ve dağılımı]] `

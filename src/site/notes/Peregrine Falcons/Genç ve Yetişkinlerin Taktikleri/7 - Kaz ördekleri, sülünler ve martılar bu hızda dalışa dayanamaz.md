@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/genc-ve-yetiskinlerin-taktikleri/7-kaz-oerdekleri-sueluenler-ve-martilar-bu-hizda-dalisa-dayanamaz/","updated":"2024-09-16T15:48:57.781+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/genc-ve-yetiskinlerin-taktikleri/7-kaz-oerdekleri-sueluenler-ve-martilar-bu-hizda-dalisa-dayanamaz/"}
 ---
 
 `LIST link:: [[7 - Kaz ördekleri, sülünler ve martılar bu hızda dalışa dayanamaz]] `

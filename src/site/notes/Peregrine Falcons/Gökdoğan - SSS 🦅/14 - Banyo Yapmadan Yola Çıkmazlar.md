@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/14-banyo-yapmadan-yola-cikmazlar/","updated":"2024-09-16T15:53:35.504+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/14-banyo-yapmadan-yola-cikmazlar/"}
 ---
 
 `LIST link:: [[14 - Banyo Yapmadan Yola Çıkmazlar]] `

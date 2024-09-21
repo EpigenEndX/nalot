@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/19-dogal-duenyanin-savas-ucagi/","updated":"2024-09-21T16:48:55.727+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/19-dogal-duenyanin-savas-ucagi/"}
 ---
 
 `LIST link:: [[19 - Doğal Dünyanın Savaş Uçağı]] `

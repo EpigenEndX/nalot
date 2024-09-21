@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/13-goekdoganlar-geleneklerine-baglidir/","updated":"2024-09-16T15:53:07.854+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/13-goekdoganlar-geleneklerine-baglidir/"}
 ---
 
 `LIST link:: [[13 - Gökdoğanlar geleneklerine bağlıdır]] `

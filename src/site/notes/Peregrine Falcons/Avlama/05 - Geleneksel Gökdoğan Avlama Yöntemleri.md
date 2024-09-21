@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/05-geleneksel-goekdogan-avlama-yoentemleri/","updated":"2024-09-21T16:27:43.542+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/05-geleneksel-goekdogan-avlama-yoentemleri/"}
 ---
 
 `LIST link:: [[05 - Geleneksel Gökdoğan Avlama Yöntemleri]] `

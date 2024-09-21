@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/06-goekdogan-satis/","updated":"2024-09-21T16:27:50.538+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/06-goekdogan-satis/"}
 ---
 
 `LIST link:: [[06 - Gökdoğan - Satış]] `

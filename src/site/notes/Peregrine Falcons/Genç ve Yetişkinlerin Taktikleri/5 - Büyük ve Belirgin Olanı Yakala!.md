@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/genc-ve-yetiskinlerin-taktikleri/5-bueyuek-ve-belirgin-olani-yakala/","updated":"2024-09-21T16:25:21.892+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/genc-ve-yetiskinlerin-taktikleri/5-bueyuek-ve-belirgin-olani-yakala/"}
 ---
 
 `LIST link:: [[5 - Büyük ve Belirgin Olanı Yakala!]] `

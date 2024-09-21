@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/11-goekdoganlar-hakkinda-bilgi-edinme/","updated":"2024-09-16T15:52:35.263+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/11-goekdoganlar-hakkinda-bilgi-edinme/"}
 ---
 
 `LIST link:: [[11 - Gökdoğanlar Hakkında Bilgi Edinme]] `

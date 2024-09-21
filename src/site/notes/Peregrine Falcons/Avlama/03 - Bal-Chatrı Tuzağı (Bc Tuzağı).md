@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/03-bal-chatri-tuzagi-bc-tuzagi/","updated":"2024-09-21T16:27:14.270+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/03-bal-chatri-tuzagi-bc-tuzagi/"}
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0hD4P_PW0Yc?si=XZj_44lJ6_X3eSQ2&amp;start=155" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

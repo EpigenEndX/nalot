@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/genc-ve-yetiskinlerin-taktikleri/3-goekdoganlarin-sofra-adabi/","updated":"2024-09-21T16:26:39.194+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/genc-ve-yetiskinlerin-taktikleri/3-goekdoganlarin-sofra-adabi/"}
 ---
 
 `LIST link:: [[3 - Gökdoğanların Sofra Adabı]] `

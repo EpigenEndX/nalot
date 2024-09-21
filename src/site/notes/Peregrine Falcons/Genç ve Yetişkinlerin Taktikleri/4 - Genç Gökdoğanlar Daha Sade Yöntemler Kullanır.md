@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/genc-ve-yetiskinlerin-taktikleri/4-genc-goekdoganlar-daha-sade-yoentemler-kullanir/","updated":"2024-09-21T16:26:33.955+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/genc-ve-yetiskinlerin-taktikleri/4-genc-goekdoganlar-daha-sade-yoentemler-kullanir/"}
 ---
 
 `LIST link:: [[4 - Genç Gökdoğanlar Daha Sade Yöntemler Kullanır]] `

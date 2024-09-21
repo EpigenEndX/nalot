@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/02-goekdoganlar-cesitli-nedenlerden-dolayi-kiyi-seridi-ve-ic-kesimleri-tehlikeli-olarak-goerme-nedenleri-nedir/","updated":"2024-09-16T15:51:04.896+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/02-goekdoganlar-cesitli-nedenlerden-dolayi-kiyi-seridi-ve-ic-kesimleri-tehlikeli-olarak-goerme-nedenleri-nedir/"}
 ---
 
 `LIST link:: [[02 - Gökdoğanlar, çeşitli nedenlerden dolayı kıyı şeridi ve iç kesimleri tehlikeli olarak görme nedenleri nedir]] `

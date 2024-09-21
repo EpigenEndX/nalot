@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/09-goekdogan-in-komedi-rutinlerinin-dramatik-dansi/","updated":"2024-09-16T15:52:00.484+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/09-goekdogan-in-komedi-rutinlerinin-dramatik-dansi/"}
 ---
 
 `LIST link:: [[09 - Gökdoğan'ın Komedi Rutinlerinin Dramatik Dansı]] `

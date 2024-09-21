@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/sahin/1-goekdogan-nasil-avlanir-iki-ana-saldiri-teknigi/","updated":"2024-09-21T16:50:00.865+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/sahin/1-goekdogan-nasil-avlanir-iki-ana-saldiri-teknigi/"}
 ---
 
 

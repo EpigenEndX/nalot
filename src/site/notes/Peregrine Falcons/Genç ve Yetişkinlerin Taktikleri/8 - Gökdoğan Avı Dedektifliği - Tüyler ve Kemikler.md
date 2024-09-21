@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/genc-ve-yetiskinlerin-taktikleri/8-goekdogan-avi-dedektifligi-tueyler-ve-kemikler/","updated":"2024-09-16T15:49:10.132+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/genc-ve-yetiskinlerin-taktikleri/8-goekdogan-avi-dedektifligi-tueyler-ve-kemikler/"}
 ---
 
 `LIST link:: [[8 - Gökdoğan Avı Dedektifliği - Tüyler ve Kemikler]] `

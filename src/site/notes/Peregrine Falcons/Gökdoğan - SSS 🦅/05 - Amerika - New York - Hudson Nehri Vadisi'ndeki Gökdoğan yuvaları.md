@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/05-amerika-new-york-hudson-nehri-vadisi-ndeki-goekdogan-yuvalari/","updated":"2024-09-16T15:51:25.590+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/05-amerika-new-york-hudson-nehri-vadisi-ndeki-goekdogan-yuvalari/"}
 ---
 
 `LIST link:: [[05 - Amerika - New York - Hudson Nehri Vadisi'ndeki Gökdoğan yuvaları]] `

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/17-goekdoganlar-yuva-yapmazlar/","updated":"2024-09-16T15:57:02.332+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/17-goekdoganlar-yuva-yapmazlar/"}
 ---
 
 `LIST link:: [[17 - Gökdoğanlar yuva yapmazlar]] `

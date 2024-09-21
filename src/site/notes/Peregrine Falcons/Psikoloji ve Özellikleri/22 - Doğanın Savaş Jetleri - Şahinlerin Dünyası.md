@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/22-doganin-savas-jetleri-sahinlerin-duenyasi/","updated":"2024-09-21T16:49:35.139+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/22-doganin-savas-jetleri-sahinlerin-duenyasi/"}
 ---
 
 `LIST link:: [[22 - Doğanın Savaş Jetleri - Şahinlerin Dünyası]] `

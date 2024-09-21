@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/genc-ve-yetiskinlerin-taktikleri/2-goekdoganlarin-kis-avlanma-raporu/","updated":"2024-09-21T16:26:44.564+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/genc-ve-yetiskinlerin-taktikleri/2-goekdoganlarin-kis-avlanma-raporu/"}
 ---
 
 `LIST link:: [[2 - Gökdoğanların Kış Avlanma Raporu]] `

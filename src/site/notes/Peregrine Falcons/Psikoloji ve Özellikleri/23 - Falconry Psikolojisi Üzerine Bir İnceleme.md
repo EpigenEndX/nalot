@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/23-falconry-psikolojisi-uezerine-bir-inceleme/","updated":"2024-09-21T16:49:41.327+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/23-falconry-psikolojisi-uezerine-bir-inceleme/"}
 ---
 
 `LIST link:: [[23 - Falconry Psikolojisi Üzerine Bir İnceleme]] `

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/20-peregrin-sahinlerinin-goezlemlenmesi-ve-avlanma-anlari/","updated":"2024-09-21T16:49:24.159+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/20-peregrin-sahinlerinin-goezlemlenmesi-ve-avlanma-anlari/"}
 ---
 
 `LIST link:: [[20 - Peregrin Şahinlerinin Gözlemlenmesi ve Avlanma Anları]] `

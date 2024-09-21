@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/06-goekdoganlarin-diger-kuslarla-etkilesimleri-nasil-sekilleniyor/","updated":"2024-09-16T15:51:31.829+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/06-goekdoganlarin-diger-kuslarla-etkilesimleri-nasil-sekilleniyor/"}
 ---
 
 `LIST link:: [[06 - Gökdoğanların diğer kuşlarla etkileşimleri nasıl şekilleniyor]] `

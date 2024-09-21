@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/genc-ve-yetiskinlerin-taktikleri/1-goekdoganlarin-hava-sartlarina-goere-degisen-avlanma-rutinleri/","updated":"2024-09-21T16:26:50.244+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/genc-ve-yetiskinlerin-taktikleri/1-goekdoganlarin-hava-sartlarina-goere-degisen-avlanma-rutinleri/"}
 ---
 
 `LIST link:: [[1 - Gökdoğanların Hava Şartlarına Göre Değişen Avlanma Rutinleri]] `

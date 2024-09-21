@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/15-goekdoganin-avlanma-oezellikleri/","updated":"2024-09-16T15:53:56.776+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/15-goekdoganin-avlanma-oezellikleri/"}
 ---
 
 `LIST link:: [[15 - Gökdoğanın Avlanma Özellikleri]] `

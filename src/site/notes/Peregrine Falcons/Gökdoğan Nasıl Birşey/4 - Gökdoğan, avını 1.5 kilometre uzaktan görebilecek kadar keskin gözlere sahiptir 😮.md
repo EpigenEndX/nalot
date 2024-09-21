@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-nasil-birsey/4-goekdogan-avini-1-5-kilometre-uzaktan-goerebilecek-kadar-keskin-goezlere-sahiptir/","updated":"2024-09-16T14:52:45.003+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-nasil-birsey/4-goekdogan-avini-1-5-kilometre-uzaktan-goerebilecek-kadar-keskin-goezlere-sahiptir/"}
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kkdo95nVkuk?si=WgY4XMQmFVbZljYO&amp;start=21" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

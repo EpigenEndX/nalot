@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-nasil-birsey/2-saniyede-20-fps-fotograflarla-ueretilmis-goekdogan-videosu-4-k-coezuenuerluek/","updated":"2024-09-16T13:35:00.739+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-nasil-birsey/2-saniyede-20-fps-fotograflarla-ueretilmis-goekdogan-videosu-4-k-coezuenuerluek/"}
 ---
 
 `LIST link:: [[2 - Saniyede 20FPS Fotoğraflarla Üretilmiş Gökdoğan Videosu. 4K Çözünürlük]] `

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/tuzaklar-alisveris/1-pregrine-falcon-tuzak-tipleri/","updated":"2024-09-12T02:12:53.166+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/tuzaklar-alisveris/1-pregrine-falcon-tuzak-tipleri/"}
 ---
 
 1. Crab Trap

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/07-kis-aylarinda-goekdoganlarin-beslenme-aliskanliklari-nasildir/","updated":"2024-09-16T15:51:37.451+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/07-kis-aylarinda-goekdoganlarin-beslenme-aliskanliklari-nasildir/"}
 ---
 
 `LIST link:: [[07 - Kış aylarında gökdoğanların beslenme alışkanlıkları nasıldır]] `

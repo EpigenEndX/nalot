@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/11-habibati-yasam-alani/","updated":"2024-09-21T16:36:02.452+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/11-habibati-yasam-alani/"}
 ---
 
 `LIST link:: [[11 - Habibatı (Yaşam Alanı)]] `

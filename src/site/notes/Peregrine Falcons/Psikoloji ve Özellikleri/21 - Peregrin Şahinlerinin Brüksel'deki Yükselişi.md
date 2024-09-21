@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/21-peregrin-sahinlerinin-brueksel-deki-yuekselisi/","updated":"2024-09-21T16:49:29.390+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/21-peregrin-sahinlerinin-brueksel-deki-yuekselisi/"}
 ---
 
 `LIST link:: [[21 - Peregrin Şahinlerinin Brüksel'deki Yükselişi]] `

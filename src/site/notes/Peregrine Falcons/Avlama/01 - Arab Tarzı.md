@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/01-arab-tarzi/","updated":"2024-09-21T16:26:57.787+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/01-arab-tarzi/"}
 ---
 
 `LIST link:: [[01 - Arab Tarzı]]`

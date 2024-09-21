@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/17-goekdogan-falco-peregrinus-evrim-agaci/","updated":"2024-09-21T16:48:37.326+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/17-goekdogan-falco-peregrinus-evrim-agaci/"}
 ---
 
 `LIST link:: [[17 - Gökdoğan (Falco peregrinus) - Evrim Ağacı]] `

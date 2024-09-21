@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/12-pakistan-in-pencap-boelgesinde-sahin-yakalamada-kullanilan-tuzak-teknikleri-ve-yemler/","updated":"2024-09-18T01:21:31.747+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/12-pakistan-in-pencap-boelgesinde-sahin-yakalamada-kullanilan-tuzak-teknikleri-ve-yemler/"}
 ---
 
 `LIST link:: [[Peregrine Falcons/Avlama/12 - Pakistan'ın Pencap bölgesinde şahin yakalamada kullanılan tuzak teknikleri ve yemler\|12 - Pakistan'ın Pencap bölgesinde şahin yakalamada kullanılan tuzak teknikleri ve yemler]]

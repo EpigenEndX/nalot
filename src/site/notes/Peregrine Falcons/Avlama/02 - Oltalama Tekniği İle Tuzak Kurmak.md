@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/02-oltalama-teknigi-ile-tuzak-kurmak/","updated":"2024-09-21T16:27:03.744+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/avlama/02-oltalama-teknigi-ile-tuzak-kurmak/"}
 ---
 
 `LIST link:: [[Peregrine Falcons/Avlama/02 - Oltalama Tekniği İle Tuzak Kurmak\|02 - Oltalama Tekniği İle Tuzak Kurmak]]

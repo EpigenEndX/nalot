@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/12-yayilisi/","updated":"2024-09-21T16:36:27.182+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/12-yayilisi/"}
 ---
 
 `LIST link:: [[12 - Yayılışı]] `

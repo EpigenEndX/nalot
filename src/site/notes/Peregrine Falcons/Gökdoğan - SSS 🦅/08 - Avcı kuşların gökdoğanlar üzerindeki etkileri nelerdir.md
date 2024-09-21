@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/08-avci-kuslarin-goekdoganlar-uezerindeki-etkileri-nelerdir/","updated":"2024-09-16T15:51:43.024+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/08-avci-kuslarin-goekdoganlar-uezerindeki-etkileri-nelerdir/"}
 ---
 
 `LIST link:: [[08 - Avcı kuşların gökdoğanlar üzerindeki etkileri nelerdir]] `

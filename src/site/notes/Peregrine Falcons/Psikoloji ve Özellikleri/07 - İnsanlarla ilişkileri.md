@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/07-insanlarla-iliskileri/","updated":"2024-09-21T16:33:23.164+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/07-insanlarla-iliskileri/"}
 ---
 
 `LIST link:: [[07 - İnsanlarla ilişkileri]] `

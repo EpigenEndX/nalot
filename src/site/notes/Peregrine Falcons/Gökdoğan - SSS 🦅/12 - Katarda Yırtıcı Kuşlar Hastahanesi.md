@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/12-katarda-yirtici-kuslar-hastahanesi/","updated":"2024-09-16T15:52:50.538+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/goekdogan-sss/12-katarda-yirtici-kuslar-hastahanesi/"}
 ---
 
 `LIST link:: [[12 - Katarda Yırtıcı Kuşlar Hastahanesi]] `

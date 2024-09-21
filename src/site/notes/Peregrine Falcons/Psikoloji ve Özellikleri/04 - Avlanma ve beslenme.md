@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/04-avlanma-ve-beslenme/","updated":"2024-09-21T16:33:03.795+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/04-avlanma-ve-beslenme/"}
 ---
 
 `LIST link:: [[04 - Avlanma ve beslenme]] `

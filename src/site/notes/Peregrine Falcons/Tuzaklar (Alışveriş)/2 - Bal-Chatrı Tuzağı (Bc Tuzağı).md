@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/tuzaklar-alisveris/2-bal-chatri-tuzagi-bc-tuzagi/","updated":"2024-09-21T16:51:08.048+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/tuzaklar-alisveris/2-bal-chatri-tuzagi-bc-tuzagi/"}
 ---
 
 `LIST link:: [[Peregrine Falcons/Tuzaklar (Alışveriş)/2 - Bal-Chatrı Tuzağı (Bc Tuzağı)\|2 - Bal-Chatrı Tuzağı (Bc Tuzağı)]]
