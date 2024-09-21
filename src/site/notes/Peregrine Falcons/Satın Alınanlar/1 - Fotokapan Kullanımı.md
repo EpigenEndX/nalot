@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/satin-alinanlar/1-fotokapan-kullanimi/","tags":["gardenEntry"],"updated":"2024-09-21T16:58:25.430+03:00"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/satin-alinanlar/1-fotokapan-kullanimi/","tags":["gardenEntry"]}
 ---
 
 `LIST link:: [[1 - Fotokapan Kullanimi\|1 - Fotokapan Kullanimi]]
