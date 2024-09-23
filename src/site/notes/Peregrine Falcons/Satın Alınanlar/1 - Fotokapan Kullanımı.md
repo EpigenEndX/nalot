@@ -5,6 +5,8 @@
 `LIST link:: [[1 - Fotokapan Kullanimi\|1 - Fotokapan Kullanimi]]
 `
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7oVkigYOBJs?si=yRjz4sWV3l2YfThT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Fotokapanların konumlandırılması, etkili bir şekilde çalışmaları için oldukça önemlidir. 
 <font color="#ffff00">İşte fotokapanların yerleştirilmesiyle ilgili bazı önemli noktalar:</font>
 ### Güneş Işığına Maruz Kalma
