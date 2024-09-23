@@ -55,6 +55,10 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gsn5L3XlXjg?si=VxiuaqT3uYzTHWwL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+TÜRKÇE DUBLAJ:
+
+https://sider.ai/AI-video-shortener-share/a79e36e2e1462d641f15060158209e8b?source=vs&p1=U0Y3H8RXKE&p2=share
+
 Videoda anlatılanları ve önerileri daha anlaşılır bir şekilde maddeler halinde özetleyebilirim:
 
 1. **Misinanın Seçimi:**
