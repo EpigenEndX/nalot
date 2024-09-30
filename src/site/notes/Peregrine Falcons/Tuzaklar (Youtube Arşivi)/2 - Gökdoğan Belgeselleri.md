@@ -58,3 +58,28 @@ https://sider.ai/AI-video-shortener-share/11c616ded70deb01489ac2d15f18cc9d?sourc
 
 https://sider.ai/AI-video-shortener-share/f8eb37a80796c6b29263e7a17a55f248?source=vs&p1=U0Y3H8RXKE&p2=share
 
+Son Nokta Şahin Avcılığı: Teksas'ta Ördek Avı 
+
+https://sider.ai/AI-video-shortener-share/ff647dcc68a2fdb8853a0920dc3f17f5?source=vs&p1=U0Y3H8RXKE&p2=share
+
+Sırtlanma - Yırtıcı kuşlarla avlanma 
+
+https://sider.ai/AI-video-shortener-share/57bf12f39d21de3386cf144fdc39f3ac?source=vs&p1=U0Y3H8RXKE&p2=share 
+
+Sırtlanma: Geçiş yapan kuşları ne zaman tuzağa düşürmeli 
+
+https://sider.ai/AI-video-shortener-share/9c6d76490a854b6faeaa58c92dd8a144?source=vs&p1=U0Y3H8RXKE&p2=share 
+
+Sırtlanma: sonbahar göçü ve şahinlerle şahin yakalamak 
+
+https://sider.ai/AI-video-shortener-share/bc69ed28cf63374ba083a703215787b0?source=vs&p1=U0Y3H8RXKE&p2=share 
+
+Sırtlanma: Şahin Yakalama 1. Bölüm 
+
+https://sider.ai/AI-video-shortener-share/3df3a8cbfa24cc054668247fab3d5275?source=vs&p1=U0Y3H8RXKE&p2=share 
+
+KUŞKANATLARI NASIL ÇALIŞIR: GENİŞKANATLILAR, UZUNKANATLILAR VE KISAKANATLILAR! Kuş Kanatlarının Anatomisi ve Aerodinamiği 
+
+https://sider.ai/AI-video-shortener-share/93715cb870abfec25e11dec62ad1cf14?source=vs&p1=U0Y3H8RXKE&p2=share 
+
+
