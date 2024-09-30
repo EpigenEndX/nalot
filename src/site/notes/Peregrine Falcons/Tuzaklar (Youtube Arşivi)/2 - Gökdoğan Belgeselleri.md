@@ -29,3 +29,20 @@ https://sider.ai/AI-video-shortener-share/b284cf42857f3e8358d1dd72e5dbc186?sourc
 Falconry: Training a Brand New Falcon (Şahin Avcılığı: Yeni Bir Şahin Eğitimi Bölüm 2) 
 
 https://sider.ai/AI-video-shortener-share/5d4590e7d616f934a4078a67b2c70ff4?source=vs&p1=U0Y3H8RXKE&p2=share
+
+Şahin Okşanır mı:
+
+https://sider.ai/AI-video-shortener-share/9c140c179b4191be2dc8bc236caa3036?source=vs&p1=U0Y3H8RXKE&p2=share
+
+Şahin Yakalayıp Şahin Avcılığına Hazırlamak:
+
+https://sider.ai/AI-video-shortener-share/d88fa8edddd1df1d065e43987edebe67?source=vs&p1=U0Y3H8RXKE&p2=share
+
+Şahinlerle Avlanmak: Bir Şehirli Adamın Doğada Kendini Bulma Hikayesi | Kısa Film Gösterimi:
+
+https://sider.ai/AI-video-shortener-share/d823e1570f86546f3d0f6ee308054f71?source=vs&p1=U0Y3H8RXKE&p2=share
+
+Şahin Avcılığı Sanatı: Eğitimli Yırtıcı Kuşlarla Kırsalda Gezmek (Hampshire, İngiltere)
+
+https://sider.ai/AI-video-shortener-share/2ef28b7780701cb88e0bd3a344018c08?source=vs&p1=U0Y3H8RXKE&p2=share
+
