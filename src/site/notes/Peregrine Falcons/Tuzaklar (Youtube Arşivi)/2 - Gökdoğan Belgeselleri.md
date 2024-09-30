@@ -26,6 +26,6 @@ Falconry: Training a Brand New Falcon (Şahin Avcılığı: Yeni Bir Şahin Eği
 
 https://sider.ai/AI-video-shortener-share/b284cf42857f3e8358d1dd72e5dbc186?source=vs&p1=U0Y3H8RXKE&p2=share
 
-Falconry: Training a brand new falcon Part 2
+Falconry: Training a Brand New Falcon (Şahin Avcılığı: Yeni Bir Şahin Eğitimi Bölüm 2) 
 
 https://sider.ai/AI-video-shortener-share/5d4590e7d616f934a4078a67b2c70ff4?source=vs&p1=U0Y3H8RXKE&p2=share
