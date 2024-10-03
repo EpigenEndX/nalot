@@ -83,3 +83,19 @@ KUŞKANATLARI NASIL ÇALIŞIR: GENİŞKANATLILAR, UZUNKANATLILAR VE KISAKANATLIL
 https://sider.ai/AI-video-shortener-share/93715cb870abfec25e11dec62ad1cf14?source=vs&p1=U0Y3H8RXKE&p2=share 
 
 
+Gökyüzünün Avcıları | Tam Bölüm 
+
+https://sider.ai/AI-video-shortener-share/782d70c5ac71c031c7222c34df91171f?source=vs&p1=U0Y3H8RXKE&p2=share 
+
+KIZIL KUYRUKLU ŞAHİN TUZAĞI - ACR Dış Mekan 
+
+https://sider.ai/AI-video-shortener-share/2281a0cc6663154bd295ffb337ef71a4?source=vs&p1=U0Y3H8RXKE&p2=share 
+
+Olgunlaşmamış Kızıl Kuyruklu Şahin Tuzağı 
+
+https://sider.ai/AI-video-shortener-share/57c28d583bbe9090ab22148c281bb04e?source=vs&p1=U0Y3H8RXKE&p2=share 
+
+Sırtlanma Podcast'i: Bölüm 006 Tuzak Hikayeleri 
+
+https://sider.ai/AI-video-shortener-share/10e5464b8fee9098ab02a2007ead3e6c?source=vs&p1=U0Y3H8RXKE&p2=share 
+
