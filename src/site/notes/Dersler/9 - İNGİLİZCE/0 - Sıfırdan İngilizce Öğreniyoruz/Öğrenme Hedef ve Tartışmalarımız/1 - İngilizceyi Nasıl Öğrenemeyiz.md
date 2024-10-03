@@ -15,8 +15,6 @@
 
 ---
 
-**2024 yılında hedefiniz İngilizce öğrenmemek değil, İngilizce öğrenmek olsun.**
-
-Hepimize bol İngilizcelik günler diliyorum. 
+**2024 yılında hedefimiz İngilizce öğrenmemek değil, İngilizce öğrenmek olsun.**
 
 ---
