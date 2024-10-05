@@ -50,7 +50,7 @@
 
 -   [Ada doğanı](https://tr.wikipedia.org/wiki/Ada_do%C4%9Fan%C4%B1 "Ada doğanı") (_Falco eleonorae_)
 -   [Afrika doğanı](https://tr.wikipedia.org/w/index.php?title=Afrika_do%C4%9Fan%C4%B1&action=edit&redlink=1 "Afrika doğanı (sayfa mevcut değil)") (_Falco cuvierii_)
--   [Akdoğan](https://tr.wikipedia.org/wiki/Akdo%C4%9Fan "Akdoğan") (_Falco rusticolus_)
+-   [Akdoğan](https://tr.wikipedia.org/wiki/Akdo%C4%9Fan "Akdoğan") (_Aksungur - Falco rusticolus_)
 -   [Ala doğan](https://tr.wikipedia.org/wiki/Ala_do%C4%9Fan "Ala doğan") (_Falco vespertinus_)
 -   [Amerika kerkenezi](https://tr.wikipedia.org/wiki/Amerika_kerkenezi "Amerika kerkenezi") (_Falco sparverius_)
 -   [Amur doğanı](https://tr.wikipedia.org/wiki/Amur_do%C4%9Fan%C4%B1 "Amur doğanı") (_Falco amurensis_)

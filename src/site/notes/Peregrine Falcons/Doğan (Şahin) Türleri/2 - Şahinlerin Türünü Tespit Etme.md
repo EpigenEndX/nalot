@@ -6,6 +6,9 @@ https://sider.ai/AI-video-shortener-share/01dd8de1f8d403cb76b2aa5cadb82514?sourc
 
 `LIST link:: [[Şahinlerin Türünü Tespit Etme\|Şahinlerin Türünü Tespit Etme]]
 `
+Yırtıcı Kuşları Tanımlama: 
+
+https://sider.ai/AI-video-shortener-share/51c02fa81bf7a2802b931a96ab67bfe4?source=vs&p1=U0Y3H8RXKE&p2=share
 
 Aşağıda, David Brown'un tanıttığı Doğu ABD'deki 40 farklı şahin türünü ve her birinin belirgin özelliklerini listeledim. Başlıklar, kuşların İngilizce ve Türkçe isimlerini içermektedir.
 # 1. Cooper's Hawk (Kooper'in Şahini)
