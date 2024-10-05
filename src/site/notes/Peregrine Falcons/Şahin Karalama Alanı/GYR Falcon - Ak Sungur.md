@@ -111,7 +111,7 @@ Standart ölçümler arasında, kanat kordonu **34.5 ile 41 cm** (13.6 ile 16.1 
 
 ---
 
-## Boyut ve Ağırlık (Size and Weight)
+#### Boyut ve Ağırlık (Size and Weight)
 
 - **Erkekler**:
   - Uzunluk: **48 ila 61 cm** (19 ila 24 inç)
@@ -127,13 +127,13 @@ Standart ölçümler arasında, kanat kordonu **34.5 ile 41 cm** (13.6 ile 16.1 
 
 ---
 
-## Boyut Varyasyonları (Size Variations)
+#### Boyut Varyasyonları (Size Variations)
 
 - **Doğu Sibirya**'dan aşırı büyük bir dişi **2,600 g** (5 lb 12 oz) ağırlığında bulunmuştur.
 
 ---
 
-## Standart Ölçümler (Standard Measurements)
+#### Standart Ölçümler (Standard Measurements)
 
 - **Kanat Kirişi**: **34,5 ila 41 cm** (13,6 ila 16,1 inç)
 - **Kuyruk**: **19,5 ila 29 cm** (7,7 ila 11,4 inç)
@@ -142,7 +142,7 @@ Standart ölçümler arasında, kanat kordonu **34.5 ile 41 cm** (13.6 ile 16.1 
 
 ---
 
-## Morfolojik Özellikler (Morphological Characteristics)
+##### Morfolojik Özellikler (Morphological Characteristics)
 
 - **Polimorfik**: Gyrfalcon çok polimorfik bir türdür.  
 - **Morflar**:
@@ -151,7 +151,7 @@ Standart ölçümler arasında, kanat kordonu **34.5 ile 41 cm** (13.6 ile 16.1 
 
 ---
 
-## Kahverengi Form (Brown Morph)
+#### Kahverengi Form (Brown Morph)
 
 - **Kahverengi form**:
   - Krem rengi çizgiler ve iyi tanımlanmış bir **malar şerit** ve başlık yoktur.
@@ -159,7 +159,7 @@ Standart ölçümler arasında, kanat kordonu **34.5 ile 41 cm** (13.6 ile 16.1 
 
 ---
 
-## Siyah Form (Black Morph)
+#### Siyah Form (Black Morph)
 
 - **Siyah morf**:
   - Güçlü siyah benekli bir alt tarafa sahiptir.
@@ -167,21 +167,21 @@ Standart ölçümler arasında, kanat kordonu **34.5 ile 41 cm** (13.6 ile 16.1 
 
 ---
 
-## Diğer Özellikler (Other Characteristics)
+#### Diğer Özellikler (Other Characteristics)
 
 - **Beyaz form**: Ağırlıklı olarak beyaz olan tek şahinlerdir.
 - **Gümüş gyrfalconlar**: Daha büyük boyutta açık gri bir **lanner** şahinine benzer.
 
 ---
 
-## Renk Farklılıkları (Color Differences)
+#### Renk Farklılıkları (Color Differences)
 
 - Tür, cinsiyete dayalı renk farklılığı göstermez.
 - **Gençler**, yetişkinlerden daha koyu ve kahverengidir.
 
 ---
 
-## Siyah Renk (Black Color)
+#### Siyah Renk (Black Color)
 
 - Siyah renk cinsiyetle bağlantılı gibi görünmektedir.
 - Genellikle dişilerde görülür.
@@ -189,7 +189,7 @@ Standart ölçümler arasında, kanat kordonu **34.5 ile 41 cm** (13.6 ile 16.1 
 
 ---
 
-## Esaret Altındaki Renk Çeşitleri (Caged Color Variations)
+#### Esaret Altındaki Renk Çeşitleri (Caged Color Variations)
 
 - **"Siyah civciv"** olarak adlandırılan bir renk çeşidi yetiştiricilikte ortaya çıkmıştır.
 
@@ -197,6 +197,226 @@ Standart ölçümler arasında, kanat kordonu **34.5 ile 41 cm** (13.6 ile 16.1 
 
 #Gyrfalcon #Tanım #Boyut #Morfoloji
 
+# Gyrfalcon Sistematik ve Evrim (Gyrfalcon Systematics and Evolution)
+
+---
+
+## Hibritizasyon ve Genetik İlişkiler (Hybridization and Genetic Relationships)
+
+- **Gyrfalcon**, **hierofalcon kompleksinin** bir üyesidir.  
+- Hibritizasyon ve eksik soy sıralaması, DNA dizilim verilerine dayalı analizlerle karışmaktadır.
+
+---
+
+## Evrimsel Süreç (Evolutionary Process)
+
+- **Geç Pleistosen** dönemi başlangıcında, **Eemian Aşaması** civarında **hierofalcon** çeşitliliğinde gerçekleşmiştir.  
+- Holarktik'e doğru genişleyen ve yerel koşullara uyum sağlayan soylara işaret eder.  
+- Kuzeydoğu Afrika'da yaşayan popülasyonlar, daha güneydeki gyrfalcon'ların tersine evrim geçirmiştir.
+
+---
+
+## Hibritleşme İnançları (Hybridization Beliefs)
+
+- Önceki inançlar, Altay Dağları'nda gyrfalcon'ların **saker şahinlerle** melezleştiğini varsayıyordu.  
+- Son genetik araştırmalar, Altay şahinleri ile doğu saker şahinleri arasında genetik farklılık bulamamıştır.
+
+---
+
+## Yerellik ve Renk Morfolojisi (Locality and Color Morphology)
+
+- Gyrfalcon'lar genellikle **en hafif morflara** sahiptir.  
+- **Beyaz tüyleri** sırtlarında gri beneklerle kaplıdır.  
+
+- **İzlanda kuşları** daha solgunken, **Avrasya popülasyonları** daha koyu morflardadır ve beyaz kuş içermez.
+
+---
+
+## Polimorfik Özellikler (Polymorphic Traits)
+
+- Gyrfalconların farklı alt popülasyonları arasında alel alışverişi, bölgesel alt türlere ayrılmayı engeller.  
+- Renk polimorfizmi, klinelardan oluşur; koyu renkli kuşlarda bilinmeyen kökenler bulunabilir.
+
+---
+
+## Tüy Rengi Genetiği (Feather Color Genetics)
+
+- Tüy renginin **melanokortin 1 reseptör geni (MC1R)** ile ilişkili olduğu belirtilmektedir.  
+- **Beyaz/melanik polimorfizm** ile ilgili bir nokta değişimi vardır.
+
+---
+
+## Coğrafi Çeşitlilik (Geographic Variation)
+
+- Popülasyonlar arasında **Bergmann kuralı** ve tüylerde kripsis talepleri gözlemlenir.  
+- İzlanda nüfusu, tanımları itibarıyla belirgin olup, komşularıyla daha az gen akışına sahiptir.
+
+---
+
+## İzlanda Popülasyonu (Iceland Population)
+
+- İzlanda popülasyonu, doğu ve batı Grönland, Kanada, Alaska ve Norveç gibi diğer popülasyonlarla karşılaştırıldığında genetik olarak benzersizdir.  
+- Grönland'da batı ve doğu örnekleme yerlerinde farklı düzeylerde gen akışı gözlemlenmiştir.
+
+---
+
+## Tüy Rengi Dağılımı (Feather Color Distribution)
+
+- **Kuzey Grönland**'da beyaz gyrfalcon ile tüy rengi çeşitlerinin yüksek orandaki dağılımı gözlemlenmiştir.  
+- Daha fazla araştırma gereklidir ancak demografik veriler, beyaz bireylerin ve çiftlerin üreme mevsimindeki etkileri üzerine vurgu yapmaktadır.
+
+---
+
+## Paleoalt Tür: Swarth'ın Gyrfalcon'u (Paleo-subspecies: Swarth's Gyrfalcon)
+
+- **Falco rustikolus swarthi**, Geç Pleistosen dönemde mevcut olan bir paleoalt türdür.  
+- Fosil bulguları, bu türün günümüz gyrfalcon'larından ayrılamadığını göstermektedir.
+
+---
+
+## Ekolojik Adaptasyonlar (Ecological Adaptations)
+
+- Swarth'ın gyrfalcon'u, mevcut gyrfalcon'un üst boyut aralığındadır.  
+- Tüketim alışkanlıkları, kara kuşları ve memelileri avlayacak şekilde uyarlanmıştır.
+
+---
+
+#Gyrfalcon #Sistematik #Evrim #Genetik
+
+# Gyrfalcon Genel Bakış (Gyrfalcon Overview)
+
+---
+
+## Tanım (Definition)
+
+**Gyrfalcon** (_**Falco rustikolus**_), **şahin** cinsinin en büyüğü olan bir **yırtıcı kuştur**. 
+
+- **Kısaltma**: Gyr
+- **Habitat**: Arktik kıyılarında ve tundrada, Kuzey Amerika'nın kuzeyindeki adalarda ve Avrosiberya bölgesinde ürer.
+
+---
+
+## Dağılım (Distribution)
+
+- Gyrfalcon, çoğunlukla bu bölgelerde yaşar, ancak üreme mevsiminden sonra veya kışın daha geniş bir alana dağılır.
+- Bireysel **serserilik** kuşları uzun mesafelere götürebilir.
+
+---
+
+## Tüy Renkleri (Plumage Colors)
+
+- Tüyleri konuma göre değişir; tamamen beyazdan koyu kahverengiye kadar renk varyasyonları gösterir.
+- Bu renk değişimlerine **morf** denir.
+- Dişi, erkekten çok daha büyüktür; bu durum **cinsel dimorfizm** olarak adlandırılır.
+
+---
+
+## Avlanma (Hunting)
+
+- Gyrfalcon, yüzyıllar boyunca **av kuşu** olarak değer görmüştür.
+- Tipik avları arasında **karga** ve su kuşları bulunur; ayrıca balık ve memelileri de avlar.
+
+---
+
+## Koruma Durumu (Conservation Status)
+
+- **Koruma Durumu**: En Az Endişe (Least Concern) (IUCN 3.1)
+- **CITES**: Ek I
+
+---
+
+## Bilimsel Sınıflandırma (Scientific Classification)
+
+- **Domain**: Ökaryota
+- **Krallık**: Hayvanlar Alemi
+- **Şube**: Kordata
+- **Sınıf**: Aves
+- **Emir**: Şahingiller
+- **Aile**: Şahingiller
+- **Cins**: _Falco_
+- **Alt Cins**: _Hierofalco_
+- **Tür**: _**F. rustikolus**_
+
+---
+
+## Ek Bağlantılar (External Links)
+
+- [Gyrfalcon (belirsizliği giderme)](https://en.m.wikipedia.org/wiki/Gyrfalcon_(disambiguation))
+- [IUCN Red List](https://en.m.wikipedia.org/wiki/IUCN_Red_List)
+- [CITES](https://en.m.wikipedia.org/wiki/CITES)
+
+---
+
+#Gyrfalcon #YırtıcıKuş #KorumaDurumu #BilimselSınıflandırma 
+
+# Gyrfalcon Genel Bakış (Gyrfalcon Overview)
+
+---
+
+## Tanım (Definition)
+
+**Gyrfalcon** (_**Falco rusticolus**_), **şahin** cinsinin en büyüğü olan bir **yırtıcı kuştur**. 
+
+- **Kısaltma**: Gyr
+- **Habitat**: Arktik kıyılarında ve tundrada, Kuzey Amerika'nın kuzeyindeki adalarda ve Avrosiberya bölgesinde ürer.
+
+---
+
+## Dağılım (Distribution)
+
+- Gyrfalcon, çoğunlukla bu bölgelerde yaşar, ancak üreme mevsiminden sonra veya kışın daha geniş bir alana dağılır.
+- Bireysel **serserilik** kuşları uzun mesafelere götürebilir.
+
+---
+
+## Tüy Renkleri (Plumage Colors)
+
+- Tüyleri konuma göre değişir; tamamen beyazdan koyu kahverengiye kadar renk varyasyonları gösterir.
+- Bu renk değişimlerine **morf** denir.
+- Dişi, erkekten çok daha büyüktür; bu durum **cinsel dimorfizm** olarak adlandırılır.
+
+---
+
+## Avlanma (Hunting)
+
+- Gyrfalcon, yüzyıllar boyunca **av kuşu** olarak değer görmüştür.
+- Tipik avları arasında **karga** ve su kuşları bulunur; ayrıca balık ve memelileri de avlar.
+
+---
+
+## Koruma Durumu (Conservation Status)
+
+- **Koruma Durumu**: En Az Endişe (Least Concern) (IUCN 3.1)
+- **CITES**: Ek I
+
+---
+
+## Bilimsel Sınıflandırma (Scientific Classification)
+
+- **Domain**: Ökaryota
+- **Krallık**: Hayvanlar Alemi
+- **Şube**: Kordata
+- **Sınıf**: Aves
+- **Emir**: Şahingiller
+- **Aile**: Şahingiller
+- **Cins**: _Falco_
+- **Alt Cins**: _Hierofalco_
+- **Tür**: _**F. rusticolus**_
+
+---
+
+## Dış Bağlantılar (External Links)
+
+- [Gyrfalcon (belirsizliği giderme)](https://en.m.wikipedia.org/wiki/Gyrfalcon_(disambiguation))
+- [IUCN Red List](https://en.m.wikipedia.org/wiki/IUCN_Red_List)
+- [CITES](https://en.m.wikipedia.org/wiki/CITES)
+- [Falconry](https://en.m.wikipedia.org/wiki/Falconry)
+- [Bird of Prey](https://en.m.wikipedia.org/wiki/Bird_of_prey)
+- [Taxonomy](https://en.m.wikipedia.org/wiki/Taxonomy_(biology))
+
+---
+
+#Gyrfalcon #YırtıcıKuş #KorumaDurumu #BilimselSınıflandırma
 ### Morfoloji
 Gyrfalcon, çok morfolojik bir türdür; bu nedenle tüyleri büyük ölçüde değişiklik gösterir. Tipik morflar **"beyaz"**, **"gümüş"**, **"kahverengi"** ve **"siyah"** olarak adlandırılır; ancak tamamen beyazdan çok koyuya kadar bir spektrumda renklendirilebilirler. Gyrfalcon'un kahverengi formu, peregrine'den, ense ve tepe üzerindeki krem rengi çizgiler ve belirgin bir malar şeridi ve şapka eksikliği ile ayırt edilir. Siyah morf benzer, ancak peregrine ve kahverengi morf gyrfalcon'da ince çizgili alt yüzey yerine güçlü siyah benekli bir alt yüzeye sahiptir. Beyaz form gyrfalconlar, tek başına beyaz olan tek şahinlerdir. Gümüş gyrfalconlar, daha büyük boyutlu açık gri lanner şahinlerine benzer. Tür, cinsiyete dayalı renk farklılıkları göstermez; gençler, yetişkinlerden daha koyu ve kahverengidir.
 
