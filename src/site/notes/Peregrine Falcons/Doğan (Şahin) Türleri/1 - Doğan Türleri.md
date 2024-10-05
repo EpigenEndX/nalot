@@ -4,7 +4,7 @@
 
 `LIST link:: [[Doğan Türleri\|Doğan Türleri]]
 `
-# Falconidae Ailesi ve Türleri (Falconidae Family and Species)
+# [Falconidae Ailesi ve Türleri](https://en.m.wikipedia.org/w/index.php?title=List_of_Falconidae&wprov=rarw1) (Falconidae Family and Species)
 
 **Falconidae** ailesi, yırtıcı kuşları içeren bir familyadır. Bu ailedeki kuşlar genellikle **şahinler** ve **kerkenezler** olarak bilinir.
 
@@ -43,10 +43,10 @@
 #hashtag: #Falconidae #YırtıcıKuşlar #Şahinler #Kerkenezler
 
 -   [Doğancılık](https://tr.wikipedia.org/wiki/Do%C4%9Fanc%C4%B1l%C4%B1k "Doğancılık")
--   [Bayağı doğan](https://tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_do%C4%9Fan "Bayağı doğan") (_Falco peregrinus_)
+-   [Bayağı doğan](https://tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_do%C4%9Fan "Bayağı doğan") (_[Falco peregrinus](https://ebird.org/species/perfal?siteLanguage=tr)_)
 -   [Bayağı doğan](https://tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_do%C4%9Fan "Bayağı doğan")
 
--   (_Falco hypoleucos_)
+-   [Gri Şahin]() (Falco hypoleucos)
 
 -   [Ada doğanı](https://tr.wikipedia.org/wiki/Ada_do%C4%9Fan%C4%B1 "Ada doğanı") (_Falco eleonorae_)
 -   [Afrika doğanı](https://tr.wikipedia.org/w/index.php?title=Afrika_do%C4%9Fan%C4%B1&action=edit&redlink=1 "Afrika doğanı (sayfa mevcut değil)") (_Falco cuvierii_)
@@ -86,6 +86,8 @@
 -   [Yeni Zelanda doğanı](https://tr.wikipedia.org/w/index.php?title=Yeni_Zelanda_do%C4%9Fan%C4%B1&action=edit&redlink=1 "Yeni Zelanda doğanı (sayfa mevcut değil)") (_Falco novaeseelandiae_)
 
 ![Pasted image 20241005170658.png](/img/user/Pasted%20image%2020241005170658.png)
+
+![falcons.jpeg](/img/user/falcons.jpeg)
 ### Falcon Türleri (Types of Falcons)
 
 Aşağıda, farklı **şahin** türlerinin tanımları ve özellikleri verilmiştir:
@@ -227,7 +229,7 @@ Bu türler, **Falconidae** ailesinin farklı üyeleridir ve her biri kendine öz
 - **[Saker Falcon](https://en.m.wikipedia.org/wiki/Saker_falcon)** (_Falco cherrug_)
 - **[Gyrfalcon](https://en.m.wikipedia.org/wiki/Gyrfalcon)** (_Falco rusticolus_)
 - **[Prairie Falcon](https://en.m.wikipedia.org/wiki/Prairie_falcon)** (_Falco mexicanus_)
-- **[Peregrine Falcon](https://en.m.wikipedia.org/wiki/Peregrine_falcon)** (_Falco peregrinus_)
+- **[Peregrine Falcon](https://en.m.wikipedia.org/wiki/Peregrine_falcon)** (_[Falco peregrinus](https://ebird.org/species/perfal?siteLanguage=tr)_)
 - **[Taita Falcon](https://en.m.wikipedia.org/wiki/Taita_falcon)** (_Falco fasciinucha_)
 
 #hashtag: #Falconidae #YırtıcıKuşlar #Şahinler #Kerkenezler
