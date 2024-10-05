@@ -48,25 +48,24 @@ Siyah morf da benzerdir ancak alaca ve kahverengi morflu gyrfalcon'da olduğu gi
 
 Siyah renk [cinsiyetle bağlantılı](https://en.m.wikipedia.org/wiki/Sex-linked "Sex-linked") gibi görünüyor ve çoğunlukla kadınlarda görülüyor; yetiştiriciler için erkekleri [barut grisinin](https://en.m.wikipedia.org/wiki/Slate_grey "Slate grey") karanlık tarafından daha koyu hale getirmenin zor olduğu ortaya çıktı. Esaret altında yetiştiricilikte ortaya çıkan bir renk çeşidi de "siyah civciv"dir.12
 
--   [![Painting of a Greenland white morph (center), an intermediate (lower left), and black morph (back)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Falco_rusticolus_NAUMANN.jpg/81px-Falco_rusticolus_NAUMANN.jpg)](https://en.m.wikipedia.org/wiki/File:Falco_rusticolus_NAUMANN.jpg "Painting of a Greenland white morph (center), an intermediate (lower left), and black morph (back)")
+-   [![Painting of a Greenland white morph (center), an intermediate (lower left), and black morph (back)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Falco_rusticolus_NAUMANN.jpg/81px-Falco_rusticolus_NAUMANN.jpg)
     
    
 	Grönland beyaz morfunun (ortada), bir ara maddenin (sol altta) ve siyah morfunun (arkada) boyanması
     
 
--   [![Light silver-morph](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2007_cze_10_034.JPG/120px-2007_cze_10_034.JPG)](https://en.m.wikipedia.org/wiki/File:2007_cze_10_034.JPG "Light silver-morph")
-
+-   [![Light silver-morph](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2007_cze_10_034.JPG/120px-2007_cze_10_034.JPG)
 	
      Açık gümüş rengi
     
 
--   [![Male with a darker "silver" coloration](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Aa_gyrtiercel_2006_03_18.jpg/89px-Aa_gyrtiercel_2006_03_18.jpg)](https://en.m.wikipedia.org/wiki/File:Aa_gyrtiercel_2006_03_18.jpg "Male with a darker "silver" coloration")
+-   [![Male with a darker "silver" coloration](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Aa_gyrtiercel_2006_03_18.jpg/89px-Aa_gyrtiercel_2006_03_18.jpg)
     
     Daha koyu "gümüş" rengi olan erkek
 
 
 
--   [![Painting of brown morph adult (center) and juveniles](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Falco_rusticolus_NAUMANN_2.jpg/86px-Falco_rusticolus_NAUMANN_2.jpg)](https://en.m.wikipedia.org/wiki/File:Falco_rusticolus_NAUMANN_2.jpg "Painting of brown morph adult (center) and juveniles")
+-   [![Painting of brown morph adult (center) and juveniles](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Falco_rusticolus_NAUMANN_2.jpg/86px-Falco_rusticolus_NAUMANN_2.jpg)
     
 
 	Kahverengi morph yetişkin (ortada) ve gençlerin boyanması
@@ -94,7 +93,7 @@ Genel olarak coğrafi çeşitlilik, boyuta ilişkin [Bergmann kuralına](https:/
 Bununla birlikte, bir popülasyon genetiği çalışması19, İzlanda popülasyonunun, hem doğu hem de batı Grönland, Kanada, Alaska ve Norveç'te örneklenen diğer popülasyonlara göre genetik olarak benzersiz olduğunu tanımladı. Ayrıca, Grönland'da batı ve doğu örnekleme lokasyonları arasında farklı düzeylerde gen akışı belirlendi ve batı Grönland'da kuzeyden güneye belirgin asimetrik dağılım görüldü.  
 Bu dağılma eğilimi, kuzey Grönland'da beyaz gyrfalcon'larla birlikte tüy rengi çeşitlerinin çok daha yüksek orandaki dağılımıyla uyumludur.19 Her ne kadar tüy farklılıklarına göre bu dağılımlara katkıda bulunan ekolojik faktörleri belirlemek için daha fazla çalışma gerekli olsa da, demografik verileri kullanan bir çalışma önerildi Grönland'daki tüy rengi dağılımının, üreme mevsiminde daha erken yumurtlayan ve daha fazla yavru üreten beyaz bireylerin ve çiftlerin yuvalama kronolojisinden etkilenebileceği belirtiliyor.21
 
-###  Swarth'ın kır şahini
+### Swarth'ın kır şahini
 
 Bir [paleoalt tür](https://en.m.wikipedia.org/wiki/Chronospecies "Chronospecies") olan _Falco rustikolus swarthi_ [Geç Pleistosen'de](https://en.m.wikipedia.org/wiki/Late_Pleistocene "Late Pleistocene") (125.000 ila 13.000 yıl önce) mevcuttu. Little Box Elder Cave ( [Converse County, Wyoming](https://en.m.wikipedia.org/wiki/Converse_County,_Wyoming "Converse County, Wyoming") ), Dark Canyon Cave ( [Eddy County, New Mexico](https://en.m.wikipedia.org/wiki/Eddy_County,_New_Mexico "Eddy County, New Mexico") ) ve [McKittrick, California'da](https://en.m.wikipedia.org/wiki/McKittrick,_California "McKittrick, California") bulunan fosiller, başlangıçta _Falco swarthi_ ("Swarth şahini" veya daha doğrusu "Swarth'ın gyrfalcon'u") olarak tanımlanmıştı. onların belirgin boyutları. Bu arada, biraz daha büyük olmaları dışında, yaşayan gyrfalcon'lardan büyük ölçüde ayrılamaz oldukları kanıtlandı.22232425
 
