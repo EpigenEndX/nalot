@@ -190,7 +190,7 @@ Bu türler, **Falconidae** ailesinin farklı üyeleridir ve her biri kendine öz
 - **[White-throated Caracara](https://en.m.wikipedia.org/wiki/White-throated_caracara)** (_Phalcoboenus albogularis_)
 - **[Striated Caracara](https://en.m.wikipedia.org/wiki/Striated_caracara)** (_Phalcoboenus australis_)
 
-## **3. Alt Aile: Falconinae**
+## **3. Alt Aile: Falconinae (Doğanlar)**
 - **[Lesser Kestrel ([Küçük kerkenez]())](https://en.m.wikipedia.org/wiki/Lesser_kestrel)** (_[Falco naumanni](https://ebird.org/species/leskes1/TR)_)
 - **[Common Kestrel (Bayağı kerkenez)](https://en.m.wikipedia.org/wiki/Common_kestrel)** (_Falco tinnunculus_)
 - **[Rock Kestrel(Kaya kerkenezi)](https://en.m.wikipedia.org/wiki/Rock_kestrel)** (_Falco rupicolus_)
@@ -207,9 +207,9 @@ Bu türler, **Falconidae** ailesinin farklı üyeleridir ve her biri kendine öz
 - **[Banded Kestrel(Çizgili Kerkenez)](https://en.m.wikipedia.org/wiki/Banded_kestrel)** (_Falco zoniventris_)
 - **[Red-necked Falcon(Al-başlı Doğan)](https://en.m.wikipedia.org/wiki/Red-necked_falcon)** (_Falco chicquera_)
 - **[Red-footed Falcon(Kırmızı Ayaklı Şahin - Ala Doğan)](https://en.m.wikipedia.org/wiki/Red-footed_falcon)** (_Falco vespertinus_)
-- **[Amur Falcon](https://en.m.wikipedia.org/wiki/Amur_falcon)** (_Falco amurensis_)
-- **[Eleonora's Falcon](https://en.m.wikipedia.org/wiki/Eleonora%27s_falcon)** (_Falco eleonorae_)
-- **[Sooty Falcon](https://en.m.wikipedia.org/wiki/Sooty_falcon)** (_Falco concolor_)
+- **[Amur Falcon(Amur Doğanı)](https://en.m.wikipedia.org/wiki/Amur_falcon)** (_Falco amurensis_)
+- **[Eleonora's Falcon(Ada doğanı)](https://en.m.wikipedia.org/wiki/Eleonora%27s_falcon)** (_Falco eleonorae_)
+- **[Sooty Falcon(İsli Doğan - Gri Doğan)](https://en.m.wikipedia.org/wiki/Sooty_falcon)** (_[Falco concolor](https://ebird.org/species/soofal1)_)
 - **[Aplomado Falcon](https://en.m.wikipedia.org/wiki/Aplomado_falcon)** (_Falco femoralis_)
 - **[Merlin](https://en.m.wikipedia.org/wiki/Merlin_(bird))** (_Falco columbarius_)
 - **[Bat Falcon](https://en.m.wikipedia.org/wiki/Bat_falcon)** (_Falco rufigularis_)
