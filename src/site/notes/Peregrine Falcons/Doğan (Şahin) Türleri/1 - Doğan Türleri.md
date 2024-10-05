@@ -42,13 +42,11 @@
 
 #hashtag: #Falconidae #YırtıcıKuşlar #Şahinler #Kerkenezler
 
--   [Doğancılık](https://tr.wikipedia.org/wiki/Do%C4%9Fanc%C4%B1l%C4%B1k "Doğancılık")
--   [Gökdoğan - Bayağı doğan - Alaca Doğan](https://tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_do%C4%9Fan "Bayağı doğan") (_[Falco peregrinus](https://ebird.org/species/perfal?siteLanguage=tr)_)
--   [Bayağı doğan](https://tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_do%C4%9Fan "Bayağı doğan")
-
--   [Gri Şahin - Gri Sırtlı Doğan]() ([_Grey Falcon - Falco hypoleucos_](https://ebird.org/species/gryfal1?siteLanguage=tr))
-
--   [Ada doğanı](https://tr.wikipedia.org/wiki/Ada_do%C4%9Fan%C4%B1 "Ada doğanı") (_Falco eleonorae_)
+-  [Doğancılık](https://tr.wikipedia.org/wiki/Do%C4%9Fanc%C4%B1l%C4%B1k "Doğancılık")
+-  [Bayağı doğan](https://tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_do%C4%9Fan "Bayağı doğan")
+-  [Gökdoğan - Bayağı doğan - Alaca Doğan](https://tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_do%C4%9Fan "Bayağı doğan") (_[Falco peregrinus](https://ebird.org/species/perfal?siteLanguage=tr)_)
+-  [Gri Şahin - Gri Sırtlı Doğan]() ([_Grey Falcon - Falco hypoleucos_](https://ebird.org/species/gryfal1?siteLanguage=tr))
+-  [Ada doğanı](https://tr.wikipedia.org/wiki/Ada_do%C4%9Fan%C4%B1 "Ada doğanı") (_Falco eleonorae_)
 -   [Afrika doğanı](https://tr.wikipedia.org/w/index.php?title=Afrika_do%C4%9Fan%C4%B1&action=edit&redlink=1 "Afrika doğanı (sayfa mevcut değil)") (_Falco cuvierii_)
 -   [Akdoğan - Aksungur](https://tr.wikipedia.org/wiki/Akdo%C4%9Fan "Akdoğan") (_Falco rusticolus_)
 -   [Ala doğan](https://tr.wikipedia.org/wiki/Ala_do%C4%9Fan "Ala doğan") (_Falco vespertinus_)
@@ -224,7 +222,7 @@ Bu türler, **Falconidae** ailesinin farklı üyeleridir ve her biri kendine öz
 - **[Brown Falcon](https://en.m.wikipedia.org/wiki/Brown_falcon)** (_Falco berigora_)
 - **[Grey Falcon](https://en.m.wikipedia.org/wiki/Grey_falcon)** (_Falco hypoleucos_)
 - **[Black Falcon](https://en.m.wikipedia.org/wiki/Black_falcon)** (_Falco subniger_)
-- **[Lanner Falcon](https://en.m.wikipedia.org/wiki/Lanner_falcon)** (_Falco biarmicus_)
+- **[Lanner Falcon - Bıyıklı doğan](https://en.m.wikipedia.org/wiki/Lanner_falcon)** (_Falco biarmicus_)
 - **[Laggar Falcon](https://en.m.wikipedia.org/wiki/Laggar_falcon)** (_Falco jugger_)
 - **[Saker Falcon](https://en.m.wikipedia.org/wiki/Saker_falcon)** (_Falco cherrug_)
 - **[Gyrfalcon](https://en.m.wikipedia.org/wiki/Gyrfalcon)** (_Falco rusticolus_)
