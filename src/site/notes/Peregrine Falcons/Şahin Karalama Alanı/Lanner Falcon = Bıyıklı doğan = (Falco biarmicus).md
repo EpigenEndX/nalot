@@ -96,6 +96,7 @@
 
 https://sider.ai/AI-video-shortener-share/3084796963782561ae7cf8c75ddd1213?source=vs&p1=U0Y3H8RXKE&p2=share 
 
+###### Lanner Şahin Kanat Açıyor:
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ToxDLRSs7Cc?si=DxoBv2OlPj3SdO27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
