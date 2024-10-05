@@ -17,6 +17,8 @@
 - **Yayılma Alanı**: Afrika, güneydoğu Avrupa ve Asya’nın bazı bölgelerinde bulunur.  
 - **Yaşam Alanı**: Açık habitatları tercih eder ve genellikle ikamet eder, ancak üreme sezonundan sonra daha geniş alanlara dağılabilir.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7AeCSN4jlm0?si=Yrw5yWgD5YKQFA4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### **Tarih ve Kültür (History and Culture)**
 
 - **Eski Mısırlılar**: Lanner ya da peregrine falcon'un, eski Mısırlılara ait kutsal bir kuş olduğu düşünülmektedir. Ra ve Horus gibi bazı antik Mısır tanrıları, lanner şahin başlı bir adam olarak temsil edilmiştir.
@@ -88,3 +90,12 @@
 ## **Görme Yeteneği (Vision Ability)**
 - Juke, binlerce feet yükseklikte dahi beni görebiliyor.
 - Görme yetenekleri, bizimkinden yaklaşık **5 kat daha iyi**.
+
+
+###### LANNER ŞAHİNİ VS LUGGER ŞAHİNİ: BİR KARŞILAŞTIRMA (Falconerlik, Ekoloji, Avlanma, Renklenme...)
+
+https://sider.ai/AI-video-shortener-share/3084796963782561ae7cf8c75ddd1213?source=vs&p1=U0Y3H8RXKE&p2=share 
+
+
+
+
