@@ -96,7 +96,7 @@ Aşağıda, farklı **şahin** türlerinin tanımları ve özellikleri verilmiş
 2. **American Kestrel** (_Falco sparverius_)
    - **Tanım**: Küçük boyutlu bir şahin türüdür. Renkli tüyleri ve karakteristik avlanma tarzı ile tanınır.
 
-3. **Lesser Kestrel** (_Falco naumanni_)
+3. **Lesser Kestrel (Küçük kerkenez)** (_Falco naumanni_)
    - **Tanım**: Küçük ve zarif bir şahin. Genellikle açık alanlarda avlanır ve böceklerle beslenir.
 
 4. **Mauritius Kestrel** (_Falco punctatus_)
@@ -191,22 +191,22 @@ Bu türler, **Falconidae** ailesinin farklı üyeleridir ve her biri kendine öz
 - **[Striated Caracara](https://en.m.wikipedia.org/wiki/Striated_caracara)** (_Phalcoboenus australis_)
 
 ## **3. Alt Aile: Falconinae**
-- **[Lesser Kestrel](https://en.m.wikipedia.org/wiki/Lesser_kestrel)** (_Falco naumanni_)
-- **[Common Kestrel](https://en.m.wikipedia.org/wiki/Common_kestrel)** (_Falco tinnunculus_)
-- **[Rock Kestrel](https://en.m.wikipedia.org/wiki/Rock_kestrel)** (_Falco rupicolus_)
-- **[Malagasy Kestrel](https://en.m.wikipedia.org/wiki/Malagasy_kestrel)** (_Falco newtoni_)
-- **[Mauritius Kestrel](https://en.m.wikipedia.org/wiki/Mauritius_kestrel)** (_Falco punctatus_) - **(Extinct)**
-- **[Seychelles Kestrel](https://en.m.wikipedia.org/wiki/Seychelles_kestrel)** (_Falco araeus_)
-- **[Spotted Kestrel](https://en.m.wikipedia.org/wiki/Spotted_kestrel)** (_Falco moluccensis_)
-- **[Nankeen Kestrel](https://en.m.wikipedia.org/wiki/Nankeen_kestrel)** (_Falco cenchroides_)
-- **[American Kestrel](https://en.m.wikipedia.org/wiki/American_kestrel)** (_Falco sparverius_)
-- **[Greater Kestrel](https://en.m.wikipedia.org/wiki/Greater_kestrel)** (_Falco rupicoloides_)
-- **[Fox Kestrel](https://en.m.wikipedia.org/wiki/Fox_kestrel)** (_Falco alopex_)
-- **[Grey Kestrel](https://en.m.wikipedia.org/wiki/Grey_kestrel)** (_Falco ardosiaceus_)
-- **[Dickinson's Kestrel](https://en.m.wikipedia.org/wiki/Dickinson%27s_kestrel)** (_Falco dickinsoni_)
-- **[Banded Kestrel](https://en.m.wikipedia.org/wiki/Banded_kestrel)** (_Falco zoniventris_)
-- **[Red-necked Falcon](https://en.m.wikipedia.org/wiki/Red-necked_falcon)** (_Falco chicquera_)
-- **[Red-footed Falcon](https://en.m.wikipedia.org/wiki/Red-footed_falcon)** (_Falco vespertinus_)
+- **[Lesser Kestrel ([Küçük kerkenez]())](https://en.m.wikipedia.org/wiki/Lesser_kestrel)** (_[Falco naumanni](https://ebird.org/species/leskes1/TR)_)
+- **[Common Kestrel (Bayağı kerkenez)](https://en.m.wikipedia.org/wiki/Common_kestrel)** (_Falco tinnunculus_)
+- **[Rock Kestrel(Kaya kerkenezi)](https://en.m.wikipedia.org/wiki/Rock_kestrel)** (_Falco rupicolus_)
+- **[Malagasy Kestrel(Madagaskar kerkenezi)](https://en.m.wikipedia.org/wiki/Malagasy_kestrel)** (_Falco newtoni_)
+- **[Mauritius Kestrel(Mauritius Kerkenezi)](https://en.m.wikipedia.org/wiki/Mauritius_kestrel)** (_Falco punctatus_) - **(Extinct)**
+- **[Seychelles Kestrel(Seyşeller kerkenezi)](https://en.m.wikipedia.org/wiki/Seychelles_kestrel)** (_Falco araeus_)
+- **[Spotted Kestrel(Maluku Kerkenezi - Benekli kerkenezi)](https://en.m.wikipedia.org/wiki/Spotted_kestrel)** (_Falco moluccensis_)
+- **[Nankeen Kestrel(Avustralya kerkenezi - Nankin Kerkenezi)](https://en.m.wikipedia.org/wiki/Nankeen_kestrel)** (_Falco cenchroides_)
+- **[American Kestrel(Amerika kerkenezi)](https://en.m.wikipedia.org/wiki/American_kestrel)** (_Falco sparverius_)
+- **[Greater Kestrel(Büyük kerkenez)](https://en.m.wikipedia.org/wiki/Greater_kestrel)** (_Falco rupicoloides_)
+- **[Fox Kestrel(Tilki kerkenezi)](https://en.m.wikipedia.org/wiki/Fox_kestrel)** (_Falco alopex_)
+- **[Grey Kestrel(Gri Kerkenez - Boz kerkenez)](https://en.m.wikipedia.org/wiki/Grey_kestrel)** (_Falco ardosiaceus_)
+- **[Dickinson's Kestrel(Dickinson kerkenezi)](https://en.m.wikipedia.org/wiki/Dickinson%27s_kestrel)** (_Falco dickinsoni_)
+- **[Banded Kestrel(Çizgili Kerkenez)](https://en.m.wikipedia.org/wiki/Banded_kestrel)** (_Falco zoniventris_)
+- **[Red-necked Falcon(Al-başlı Doğan)](https://en.m.wikipedia.org/wiki/Red-necked_falcon)** (_Falco chicquera_)
+- **[Red-footed Falcon(Kırmızı Ayaklı Şahin - Ala Doğan)](https://en.m.wikipedia.org/wiki/Red-footed_falcon)** (_Falco vespertinus_)
 - **[Amur Falcon](https://en.m.wikipedia.org/wiki/Amur_falcon)** (_Falco amurensis_)
 - **[Eleonora's Falcon](https://en.m.wikipedia.org/wiki/Eleonora%27s_falcon)** (_Falco eleonorae_)
 - **[Sooty Falcon](https://en.m.wikipedia.org/wiki/Sooty_falcon)** (_Falco concolor_)
