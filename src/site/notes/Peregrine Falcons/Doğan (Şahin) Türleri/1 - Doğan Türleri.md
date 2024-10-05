@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/dogan-sahin-tuerleri/1-dogan-tuerleri/"}
+{"dg-publish":true,"permalink":"/peregrine-falcons/dogan-sahin-tuerleri/1-dogan-tuerleri/","tags":["gardenEntry"]}
 ---
 
 `LIST link:: [[Doğan Türleri\|Doğan Türleri]]
@@ -14,8 +14,8 @@
 
 - **Herpetotherinae**:
   - **Türler**:
-    - **Laughing Falcon** (_Herpetotheres cachinnans_)
-    - **Forest Falcons** (_Micrastur_ cinsi)
+    - **Laughing Falcon** (_Kahkahacı Doğan - Herpetotheres cachinnans_)
+    - **Forest Falcons - Orman Şahini** (_Micrastur_ cinsi)
 
 - **Polyborinae**:
   - **Türler**:
@@ -43,22 +43,22 @@
 #hashtag: #Falconidae #YırtıcıKuşlar #Şahinler #Kerkenezler
 
 -   [Doğancılık](https://tr.wikipedia.org/wiki/Do%C4%9Fanc%C4%B1l%C4%B1k "Doğancılık")
--   [Bayağı doğan](https://tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_do%C4%9Fan "Bayağı doğan") (_[Falco peregrinus](https://ebird.org/species/perfal?siteLanguage=tr)_)
+-   [Gökdoğan - Bayağı doğan - Alaca Doğan](https://tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_do%C4%9Fan "Bayağı doğan") (_[Falco peregrinus](https://ebird.org/species/perfal?siteLanguage=tr)_)
 -   [Bayağı doğan](https://tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_do%C4%9Fan "Bayağı doğan")
 
--   [Gri Şahin]() (Falco hypoleucos)
+-   [Gri Şahin - Gri Sırtlı Doğan]() ([_Grey Falcon - Falco hypoleucos_](https://ebird.org/species/gryfal1?siteLanguage=tr))
 
 -   [Ada doğanı](https://tr.wikipedia.org/wiki/Ada_do%C4%9Fan%C4%B1 "Ada doğanı") (_Falco eleonorae_)
 -   [Afrika doğanı](https://tr.wikipedia.org/w/index.php?title=Afrika_do%C4%9Fan%C4%B1&action=edit&redlink=1 "Afrika doğanı (sayfa mevcut değil)") (_Falco cuvierii_)
--   [Akdoğan](https://tr.wikipedia.org/wiki/Akdo%C4%9Fan "Akdoğan") (_Aksungur - Falco rusticolus_)
+-   [Akdoğan - Aksungur](https://tr.wikipedia.org/wiki/Akdo%C4%9Fan "Akdoğan") (_Falco rusticolus_)
 -   [Ala doğan](https://tr.wikipedia.org/wiki/Ala_do%C4%9Fan "Ala doğan") (_Falco vespertinus_)
 -   [Amerika kerkenezi](https://tr.wikipedia.org/wiki/Amerika_kerkenezi "Amerika kerkenezi") (_Falco sparverius_)
 -   [Amur doğanı](https://tr.wikipedia.org/wiki/Amur_do%C4%9Fan%C4%B1 "Amur doğanı") (_Falco amurensis_)
 -   [Avustralya kerkenezi](https://tr.wikipedia.org/wiki/Avustralya_kerkenezi "Avustralya kerkenezi") (_Falco cenchroides_)
 -   [Bayağı kerkenez](https://tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_kerkenez "Bayağı kerkenez") (_Falco tinnunculus_)
 -   [Benekli kerkenez](https://tr.wikipedia.org/w/index.php?title=Benekli_kerkenez&action=edit&redlink=1 "Benekli kerkenez (sayfa mevcut değil)") (_Falco moluccensis_)
--   [Bıyıklı doğan](https://tr.wikipedia.org/wiki/B%C4%B1y%C4%B1kl%C4%B1_do%C4%9Fan "Bıyıklı doğan") (_Falco biarmicus_)
--   [Boz doğan](https://tr.wikipedia.org/wiki/Boz_do%C4%9Fan "Boz doğan") (_Falco columbarius_)
+-   [Bıyıklı doğan - Lanner Falcon](https://tr.wikipedia.org/wiki/B%C4%B1y%C4%B1kl%C4%B1_do%C4%9Fan "Bıyıklı doğan") (_Falco biarmicus_)
+-   [Boz doğan - Merlin](https://tr.wikipedia.org/wiki/Boz_do%C4%9Fan "Boz doğan") (_Falco columbarius_)
 -   [Boz kerkenez](https://tr.wikipedia.org/wiki/Boz_kerkenez "Boz kerkenez") (_Falco ardosiaceus_)
 -   [Büyük kerkenez](https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_kerkenez "Büyük kerkenez") (_Falco rupicoloides_)
 -   [Çizgili kerkenez](https://tr.wikipedia.org/w/index.php?title=%C3%87izgili_kerkenez&action=edit&redlink=1 "Çizgili kerkenez (sayfa mevcut değil)") (_Falco zoniventris_)

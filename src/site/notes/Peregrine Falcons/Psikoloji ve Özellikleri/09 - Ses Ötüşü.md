@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/09-ses-oetuesue/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/peregrine-falcons/psikoloji-ve-oezellikleri/09-ses-oetuesue/"}
 ---
 
 `LIST link:: [[09 - Ses Ötüşü]] `
