@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/peregrine-falcons/sahin-karalama-alani/lanner-falcon-biyikli-dogan-falco-biarmicus/"}
 ---
 
-https://www.google.com/search?q=Lanner+falcon&sourceid=chrome&ie=UTF-8
+[ebird.org ](https://ebird.org/species/lanfal1 )
+
+[Bıyıklı Doğan (Google) Araması](https://www.google.com/search?q=Lanner+falcon&sourceid=chrome&ie=UTF-8)
 
 `LIST link:: [[Peregrine Falcons/Şahin Karalama Alanı/Lanner Falcon = Bıyıklı doğan = (Falco biarmicus)\|Lanner Falcon = Bıyıklı doğan = (Falco biarmicus)]]
 `
