@@ -63,3 +63,11 @@
 - **Ana Tehditler**: İnsan etkinlikleri, yuva hırsızlığı, araçlarla çarpma, elektrik hatlarından elektroküsyon ve kuş avcıları tarafından tehdit edilmektedir.  
 - **Habitat Kaybı**: Tarım için yoğun pestisit kullanımı ve insan genişlemesi nedeniyle uygun habitat kaybı.
 
+FALCONRY: Lanner şahin türü; En iyi yem kuşu mu?
+
+https://sider.ai/AI-video-shortener-share/53d3b481873d2e8251bfa34b5d7c3d64?source=vs&p1=U0Y3H8RXKE&p2=share 
+
+Lanner Şahin (NET GÖRÜNÜM) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zbB8qgz-4o8?si=Sm1T3HIpjkRa1ZwV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
