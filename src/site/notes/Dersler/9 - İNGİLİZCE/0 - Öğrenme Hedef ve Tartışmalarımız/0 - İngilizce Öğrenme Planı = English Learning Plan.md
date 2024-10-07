@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dersler/9-ingilizce/0-oegrenme-hedef-ve-tartismalarimiz/0-ingilizce-oegrenme-plani-english-learning-plan/"}
+{"dg-publish":true,"permalink":"/dersler/9-ingilizce/0-oegrenme-hedef-ve-tartismalarimiz/0-ingilizce-oegrenme-plani-english-learning-plan/","tags":["gardenEntry"]}
 ---
 
 `LIST link:: [[Dersler/9 - İNGİLİZCE/0 - Öğrenme Hedef ve Tartışmalarımız/0 - İngilizce Öğrenme Planı = English Learning Plan\|0 - İngilizce Öğrenme Planı = English Learning Plan]]
